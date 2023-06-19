@@ -1,0 +1,975 @@
+title,num_subscribers,course_type,level,subject,language,subtitles,price,type_ins,duration_interval
+How to Learn Online,124980,Self-paced on your time,Introductory,Education & Teacher Training,English,English,49.0,Other,0-10h
+Programming for Everybody (Getting Started with Python),293864,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+CS50's Introduction to Computer Science,2442271,Self-paced on your time,Introductory,Computer Science,English,English,90.0,University,80h+
+The Analytics Edge,129555,Instructor-led on a course schedule,Intermediate,Data Analysis & Statistics,English,English,199.0,Institute,80h+
+Marketing Analytics: Marketing Measurement Strategy,81140,Self-paced on your time,Introductory,Computer Science,English,English,249.0,University,20-30h
+Introduction to Project Management,301793,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+Leading High-Performing Teams,32847,Self-paced on your time,Intermediate,Communication,English,English,5.0,University,80h+
+The Foundations of Happiness at Work,67073,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+"Managing Study, Stress and Mental Health at University",23061,Self-paced on your time,Introductory,Health & Safety,English,English,49.0,University,0-10h
+Six Sigma: Define and Measure,92411,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,20-30h
+Fat Chance: Probability from the Ground Up,66835,Self-paced on your time,Introductory,Math,English,English,49.0,University,20-30h
+Chasing your Dream: How to End Procrastination and Get a Job You Love,44711,Self-paced on your time,Introductory,Communication,English,English,49.0,University,20-30h
+Bitcoin and Cryptocurrencies,83398,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,20-30h
+English Grammar and Style,0,Instructor-led on a course schedule,Introductory,Humanities,English,English,99.0,University,20-30h
+Ethics in Action,6366,Self-paced on your time,Intermediate,Ethics,English,"English, Español, Русский",49.0,Other,30-40h
+Introduction to FinTech,72767,Self-paced on your time,Introductory,Economics & Finance,English,"English, 中文, 中文",199.0,University,10-20h
+Data Science: R Basics,528782,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Python Basics for Data Science,228809,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,10-20h
+The Science of Beer,39085,Self-paced on your time,Introductory,Food & Nutrition,English,English,49.0,University,10-20h
+Strategic Social Media Marketing,103640,Instructor-led on a course schedule,Advanced,Business & Management,English,English,399.0,University,30-40h
+CS50's Introduction to Artificial Intelligence with Python,258006,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,80h+
+CS50's Introduction to Game Development,346748,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,80h+
+Rhetoric: The Art of Persuasive Writing and Public Speaking,320225,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,20-30h
+CS50's Web Programming with Python and JavaScript,698950,Self-paced on your time,Intermediate,Computer Science,English,English,90.0,University,80h+
+Contract Law: From Trust to Promise to Contract,414181,Self-paced on your time,Intermediate,Business & Management,English,English,125.0,University,30-40h
+"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",380167,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,20-30h
+Justice,392588,Self-paced on your time,Introductory,Humanities,English,"Deutsch, English, Español, Português, 中文",99.0,University,50-60h
+Data Science: Machine Learning,276209,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,20-30h
+Child Protection: Children's Rights in Theory and Practice,212453,Self-paced on your time,Introductory,Social Sciences,English,English,99.0,University,60-70h
+IELTS Academic Test Preparation,1103777,Self-paced on your time,Introductory,Communication,English,English,99.0,University,60-70h
+The Architectural Imagination,406181,Self-paced on your time,Introductory,Architecture,English,English,99.0,University,40-50h
+TOEFL® Test Preparation: The Insider’s Guide,1022489,Self-paced on your time,Introductory,Communication,English,English,49.0,Other,10-20h
+Principles of Biochemistry,257600,Self-paced on your time,Intermediate,Medicine,English,English,199.0,University,70-80h
+Using Python for Research,262183,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,30-40h
+Hinduism Through Its Scriptures,140782,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Basic Spanish 1: Getting Started,400169,Self-paced on your time,Introductory,Communication,English,"English, Español",40.0,University,30-40h
+The Health Effects of Climate Change,110024,Self-paced on your time,Introductory,Environmental Studies,English,English,99.0,University,20-30h
+Inglés básico: conversacional y networking,79671,Self-paced on your time,Introductory,Business & Management,Español,"English, Español",49.0,University,20-30h
+Statistics and R,314586,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,249.0,University,10-20h
+Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),145011,Self-paced on your time,Introductory,Chemistry,English,English,199.0,University,40-50h
+Pyramids of Giza: Ancient Egyptian Art and Archaeology,123870,Self-paced on your time,Introductory,Art & Culture,English,English,99.0,University,20-30h
+"PredictionX: Omens, Oracles & Prophecies",91566,Self-paced on your time,Introductory,Social Sciences,English,English,25.0,University,0-10h
+Excel: Fundamentos y herramientas,284279,Self-paced on your time,Introductory,Computer Science,Español,Español,50.0,University,20-30h
+Lessons from Ebola: Preventing the Next Pandemic,91983,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Improving Global Health: Focusing on Quality and Safety,127353,Self-paced on your time,Intermediate,Social Sciences,English,English,99.0,University,30-40h
+CS50 for Lawyers,87336,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,40-50h
+Data Science: Visualization,171258,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Christianity Through Its Scriptures,125051,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+The Science of Happiness,475614,Self-paced on your time,Introductory,Social Sciences,English,English,169.0,University,40-50h
+Leaders of Learning,231131,Self-paced on your time,Introductory,Communication,English,"English, Español",99.0,University,30-40h
+Exercising Leadership: Foundational Principles,57814,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,10-20h
+Data Science: Probability,135859,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,117410,Self-paced on your time,Intermediate,Education & Teacher Training,English,"English, Español",70.0,University,10-20h
+"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",80082,Self-paced on your time,Introductory,Medicine,English,English,99.0,University,20-30h
+Introduction to Family Engagement in Education,105146,Self-paced on your time,Introductory,Education & Teacher Training,English,English,70.0,University,10-20h
+Italian Language and Culture: Beginner (2019-2020),182462,Self-paced on your time,Introductory,Language,Italiano,Italiano,49.0,University,40-50h
+Steps in Japanese for Beginners1 Part1,53630,Self-paced on your time,Introductory,Language,English,"English, 日本語",49.0,University,20-30h
+How to Write an Essay,306787,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Energy Within Environmental Constraints,95324,Self-paced on your time,Introductory,Environmental Studies,English,English,99.0,University,40-50h
+Introduction to Probability,97291,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,University,70-80h
+AnatomyX: Musculoskeletal Cases,102075,Self-paced on your time,Intermediate,Medicine,English,English,99.0,University,30-40h
+Data Science: Inference and Modeling,88256,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Strengthening Community Health Worker Programs,58626,Self-paced on your time,Introductory,Health & Safety,English,English,79.0,University,10-20h
+Buddhism Through Its Scriptures,182295,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Introduction to Linux,642088,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,80h+
+"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",81221,Self-paced on your time,Introductory,Medicine,English,English,99.0,University,10-20h
+Shakespeare's Life and Work,48938,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Marketing Digital: Content & Community Manager,112623,Self-paced on your time,Introductory,Communication,Español,Español,49.0,University,10-20h
+Accounting and Finance,88243,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",150.0,Institute,30-40h
+Computing in Python I: Fundamentals and Procedural Programming,141966,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Institute,40-50h
+"Nutrition, Exercise and Sports",51679,Self-paced on your time,Intermediate,Food & Nutrition,English,English,49.0,University,30-40h
+Becoming an Entrepreneur,104760,Self-paced on your time,Introductory,Business & Management,English,English,69.0,Institute,10-20h
+"Religion, Conflict and Peace",74060,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,40-50h
+"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",61139,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Academic and Business Writing,322701,Self-paced on your time,Introductory,Communication,English,English,49.0,University,20-30h
+Data Science: Capstone,62803,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,99.0,University,30-40h
+Basics of Computing and Programming,37045,Self-paced on your time,Introductory,Computer Science,English,English,200.0,University,60-70h
+"Fundamentals of Neuroscience, Part 2: Neurons and Networks",84874,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,20-30h
+Successful Negotiation: Essential Strategies and Skills,31369,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,20-30h
+Data Science: Linear Regression,75310,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+HTML5 and CSS Fundamentals,335895,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,30-40h
+Data Science: Productivity Tools,66683,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Introduction to Corporate Finance,98093,Self-paced on your time,Introductory,Business & Management,English,English,225.0,University,10-20h
+Computer Science 101,39540,Self-paced on your time,Introductory,Computer Science,English,English,149.0,University,30-40h
+Data Science: Wrangling,64584,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,10-20h
+A Hands-on Introduction to Engineering Simulations,187138,Self-paced on your time,Intermediate,Engineering,English,English,199.0,University,30-40h
+AI for Everyone: Master the Basics,49340,Self-paced on your time,Introductory,Computer Science,English,English,49.0,Other,0-10h
+The Psychology of Criminal Justice,110086,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Machine Learning with Python: A Practical Introduction,80161,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,20-30h
+Analyzing Data with Python,94079,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,10-20h
+Excel: gestión de datos,111785,Self-paced on your time,Intermediate,Computer Science,Español,Español,75.0,University,30-40h
+Probability - The Science of Uncertainty and Data,205615,Instructor-led on a course schedule,Advanced,Data Analysis & Statistics,English,English,300.0,Institute,80h+
+"Fundamentals of Neuroscience, Part 3: The Brain",85034,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,30-40h
+Sikhism Through Its Scriptures,44125,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Upper-Intermediate English: Business and Modern Life,77991,Self-paced on your time,Intermediate,Language,English,English,50.0,University,10-20h
+Religious Literacy: Traditions and Scriptures,96972,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Programación para todos (empezando con Python),81004,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+Analyzing and Visualizing Data with Power BI,28879,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,99.0,University,60-70h
+High-Dimensional Data Analysis,78443,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,149.0,University,10-20h
+Introduction To Music Theory,67029,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Human Anatomy,126850,Self-paced on your time,Introductory,Medicine,English,English,139.0,University,20-30h
+"CitiesX: The Past, Present and Future of Urban Life",76874,Self-paced on your time,Introductory,Social Sciences,English,"English, Português",99.0,University,60-70h
+The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,24208,Self-paced on your time,Introductory,Philosophy & Ethics,English,English,99.0,University,10-20h
+Entrepreneurship 101: Who is your customer?,41838,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Institute,30-40h
+"U.S. Public Policy: Social, Economic, and Foreign Policies",44045,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Machine Learning with Python: from Linear Models to Deep Learning,85561,Instructor-led on a course schedule,Advanced,Computer Science,English,English,300.0,Institute,80h+
+Introduction to Data Science,43766,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,20-30h
+Circuits and Electronics 1: Basic Circuit Analysis,52639,Self-paced on your time,Introductory,Electronics,English,"English, 中文",169.0,Institute,30-40h
+Introduction to Investments,91788,Self-paced on your time,Intermediate,Business & Management,English,English,50.0,Institute,20-30h
+Improving Your Business Through a Culture of Health,54136,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,10-20h
+Introduction to Linear Models and Matrix Algebra,92004,Self-paced on your time,Intermediate,Math,English,English,149.0,University,10-20h
+DO Your Venture: Entrepreneurship For Everyone,61989,Self-paced on your time,Introductory,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+El valor de la creatividad y la innovación: La Economía Naranja,23728,Self-paced on your time,Introductory,Art & Culture,Español,Español,25.0,Other,20-30h
+Humanitarian Response to Conflict and Disaster,119891,Self-paced on your time,Introductory,Health & Safety,English,English,99.0,University,10-20h
+"Women Making History: Ten Objects, Many Stories",38939,Self-paced on your time,Introductory,History,English,English,99.0,University,20-30h
+Masterpieces of World Literature,88789,Self-paced on your time,Introductory,Literature,English,English,149.0,University,70-80h
+SQL for Data Science,39184,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,10-20h
+El cerebro y las emociones en el lenguaje,41279,Self-paced on your time,Introductory,Communication,Español,Español,49.0,University,20-30h
+Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),62673,Self-paced on your time,Introductory,Physics,English,English,169.0,University,40-50h
+Python: aprender a programar,21613,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+Marketing Analytics: Competitive Analysis and Market Segmentation,70682,Self-paced on your time,Intermediate,Computer Science,English,English,249.0,University,20-30h
+MalariaX: Defeating Malaria from the Genes to the Globe,37598,Self-paced on your time,Intermediate,Biology & Life Sciences,English,"English, Français",49.0,University,30-40h
+Entrepreneurship in Emerging Economies,113602,Self-paced on your time,Introductory,Business & Management,English,English,125.0,University,20-30h
+JavaScript Introduction,160112,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,30-40h
+People Management,113592,Self-paced on your time,Introductory,Business & Management,English,"English, हिन्दी",150.0,Institute,10-20h
+Using Email for Networking in English,57208,Self-paced on your time,Introductory,Language,English,English,149.0,University,10-20h
+Databases: Relational Databases and SQL,20502,Self-paced on your time,Introductory,Computer Science,English,English,50.0,University,10-20h
+C Programming: Getting Started,104108,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+Supply Chain Analytics,145049,Instructor-led on a course schedule,Introductory,Business & Management,English,English,199.0,Institute,80h+
+Programming for the Web with JavaScript,91406,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,20-30h
+Introduction to Digital Humanities,37501,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,20-30h
+Upper-Intermediate English: Business and Industry,103704,Self-paced on your time,Intermediate,Language,English,English,50.0,University,10-20h
+EmSAT English Preparation - Level 1,29101,Self-paced on your time,Introductory,Language,English,English,49.0,University,10-20h
+Python for Data Science,266978,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,350.0,University,80h+
+Empathy and Emotional Intelligence at Work,45867,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,0-10h
+Design Thinking and Creativity for Innovation,47549,Self-paced on your time,Intermediate,Business & Management,English,English,5.0,University,80h+
+China and Communism,69104,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Mandarin Chinese Level 1,56040,Self-paced on your time,Introductory,Language,English,English,149.0,Other,40-50h
+Introduction to Biology - The Secret of Life,147512,Instructor-led on a course schedule,Introductory,Biology & Life Sciences,English,"English, 中文",150.0,Institute,80h+
+Photoshop: una herramienta para presentaciones innovadoras,22969,Self-paced on your time,Introductory,Art & Culture,Español,Español,19.0,University,40-50h
+Causal Diagrams: Draw Your Assumptions Before Your Conclusions,50949,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,99.0,University,20-30h
+生活英语听说 | Conversational English Skills,301585,Self-paced on your time,Introductory,Communication,English,English,49.0,University,30-40h
+Shakespeare’s Othello: The Moor,31868,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Basic Spanish 2: One Step Further,67687,Self-paced on your time,Introductory,Language,English,"English, Español",50.0,University,10-20h
+Financial Market Analysis,37452,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,60-70h
+CS50's Computer Science for Business Professionals,73208,Self-paced on your time,Introductory,Computer Science,English,English,90.0,University,20-30h
+Gobierno Digital,18883,Self-paced on your time,Introductory,Social Sciences,Español,Español,25.0,Other,10-20h
+Upper-Intermediate English: Business and Globalization,58532,Self-paced on your time,Intermediate,Language,English,English,50.0,University,10-20h
+The Opioid Crisis in America,54805,Self-paced on your time,Introductory,Medicine,English,English,99.0,University,10-20h
+Gestión de Proyectos de Desarrollo,306286,Self-paced on your time,Introductory,Business & Management,Español,Español,49.0,Other,30-40h
+Statistical Learning,27968,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,50.0,University,30-40h
+Introduction to Social Psychology,79365,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Artificial Intelligence (AI),265104,Instructor-led on a course schedule,Advanced,Computer Science,English,English,249.0,University,80h+
+American Government: Constitutional Foundations,35504,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Introducción a la inversión bursátil,64261,Self-paced on your time,Introductory,Economics & Finance,Español,Español,50.0,University,0-10h
+Japanese Books: From Manuscript to Print,17581,Self-paced on your time,Introductory,Art & Culture,English,English,100.0,University,10-20h
+Foundations of Modern Finance  I,24108,Instructor-led on a course schedule,Advanced,Economics & Finance,English,English,450.0,Institute,80h+
+Operations Management,126093,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+Marketing Management,80010,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+Marketing enfocado en la estrategia de servicios,24618,Self-paced on your time,Introductory,Business & Management,Español,"English, Español",119.0,University,30-40h
+Introduction to Marketing,169126,Self-paced on your time,Introductory,Business & Management,English,English,150.0,University,20-30h
+Programming Basics,215059,Self-paced on your time,Introductory,Computer Science,English,English,149.0,Other,60-70h
+Probability and Statistics in Data Science using Python,106286,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,350.0,University,80h+
+HTML5 Coding Essentials and Best Practices,241287,Self-paced on your time,Intermediate,Computer Science,English,English,199.0,Other,40-50h
+First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,37426,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+Cell Biology: Mitochondria,64142,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,10-20h
+"Algorithms: Design and Analysis, Part 1",20163,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,10-20h
+Introducción al Office 365,16470,Self-paced on your time,Introductory,Computer Science,Español,Español,75.0,University,10-20h
+Creative Thinking: Techniques and Tools for Success,54787,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Upper-Intermediate English: Business and Technology,47451,Self-paced on your time,Intermediate,Language,English,English,50.0,University,10-20h
+Shakespeare's Hamlet: The Ghost,38331,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+FlashDiet: Aprende a comer sano,48105,Self-paced on your time,Introductory,Food & Nutrition,Español,Español,50.0,University,10-20h
+CS50's Understanding Technology,50030,Self-paced on your time,Introductory,Computer Science,English,English,90.0,University,20-30h
+Introduction to Aerospace Structures and Materials,37126,Self-paced on your time,Introductory,Engineering,English,English,50.0,University,40-50h
+Visualizing Data with Python,42101,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,39.0,Other,10-20h
+Success: Practical Thinking Skills,24414,Self-paced on your time,Introductory,Philosophy & Ethics,English,English,50.0,University,20-30h
+English for Doing Business in Asia – Speaking,68422,Self-paced on your time,Introductory,Humanities,English,English,60.0,University,20-30h
+Nutrition and Health: Macronutrients and Overnutrition,208582,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,60-70h
+"Contemporary China: The People's Republic, Taiwan, and Hong Kong",66771,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Introduction to Clinical Psychology,57234,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Modern Masterpieces of World Literature,48049,Self-paced on your time,Introductory,Literature,English,English,99.0,University,30-40h
+"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",24259,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Applied Scrum for Agile Project Management,55293,Self-paced on your time,Advanced,Engineering,English,English,199.0,University,10-20h
+Corporate Finance,62798,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+Judaism Through Its Scriptures,50540,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Excel avanzado: importación y análisis de datos,47184,Self-paced on your time,Advanced,Data Analysis & Statistics,Español,Español,75.0,University,20-30h
+CSS Basics,95163,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,30-40h
+Unlocking Information Security: Part I,19905,Self-paced on your time,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0,University,30-40h
+Becoming an Effective Leader,55937,Self-paced on your time,Intermediate,Communication,English,English,99.0,University,80h+
+Digital Branding and Engagement,122977,Self-paced on your time,Intermediate,Communication,English,English,99.0,University,10-20h
+Introduction to Cybersecurity,73021,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+General Academic English|生活英语进阶,17526,Self-paced on your time,Introductory,Language,English,English,49.0,University,20-30h
+Gestión de personas: Recursos Humanos,19687,Self-paced on your time,Introductory,Business & Management,Español,"English, Español",119.0,University,30-40h
+From Poverty to Prosperity: Understanding Economic Development,91062,Self-paced on your time,Intermediate,Social Sciences,English,English,149.0,University,10-20h
+Medical Terminology,31354,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,79.0,University,60-70h
+Ancient Masterpieces of World Literature,48899,Self-paced on your time,Introductory,Literature,English,English,99.0,University,20-30h
+Shakespeare's The Merchant of Venice: Shylock,23283,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Gestión del estrés y Mindfulness,15965,Self-paced on your time,Introductory,Health & Safety,Español,Español,49.0,University,10-20h
+Behavioural Economics in Action,66764,Self-paced on your time,Introductory,Business & Management,English,English,139.0,University,20-30h
+Finance for Everyone: Smart Tools for Decision-Making,45029,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,30-40h
+Creating Innovative Business Models,12227,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,10-20h
+u.lab: Leading From the Emerging Future,79424,Self-paced on your time,Introductory,Business & Management,English,"English, Español, Français, עברית, Indonesian, Italiano, 日本語, Português, Türkçe",99.0,Institute,70-80h
+Electric Cars: Introduction,56171,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,10-20h
+Inteligencia Artificial para todos: Domina los fundamentos,11764,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,Other,0-10h
+Marketing Analytics,55228,Instructor-led on a course schedule,Advanced,Business & Management,English,English,249.0,University,80h+
+Introducción a la Regulación Emocional basada en Mindfulness,20634,Self-paced on your time,Introductory,Health & Safety,Español,Español,49.0,University,20-30h
+Design Thinking Fundamentals,56446,Self-paced on your time,Intermediate,Business & Management,English,English,299.0,Institute,60-70h
+Basic Spanish 3: Getting there,17569,Self-paced on your time,Introductory,Language,English,"English, Español",50.0,University,10-20h
+Mi propia huerta orgánica,11346,Self-paced on your time,Introductory,Biology & Life Sciences,Español,Español,29.0,University,0-10h
+Sustainability in Architecture: An Interdisciplinary Introduction,31352,Self-paced on your time,Intermediate,Architecture,English,English,50.0,University,10-20h
+Gestión de riesgos en proyectos de desarrollo,47676,Self-paced on your time,Intermediate,Business & Management,Español,Español,25.0,Other,20-30h
+Python Data Structures,36369,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+The Science and Business of Biotechnology,17039,Self-paced on your time,Intermediate,Business & Management,English,English,49.0,Institute,80h+
+Finance Essentials,63666,Self-paced on your time,Introductory,Business & Management,English,English,79.0,University,10-20h
+Introduction to the Internet of Things (IoT),89421,Self-paced on your time,Introductory,Computer Science,English,English,149.0,University,10-20h
+'Talk to me': Improving mental health and suicide prevention in young adults,11481,Self-paced on your time,Introductory,Health & Safety,English,English,139.0,University,10-20h
+Disaster Medicine Training,10937,Self-paced on your time,Introductory,Medicine,English,English,50.0,University,10-20h
+Nutrition and Health: Human Microbiome,44079,Self-paced on your time,Introductory,Health & Safety,English,English,49.0,University,20-30h
+Customer Relationship Management,53085,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",50.0,Institute,20-30h
+Islam Through Its Scriptures,65430,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,30-40h
+Mechatronics Revolution: Fundamentals and Core Concepts,11619,Self-paced on your time,Introductory,Engineering,English,English,149.0,Institute,80h+
+Accounting for Decision-Making,57710,Self-paced on your time,Intermediate,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+C Programming: Language Foundations,46400,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+Big Data sin misterios,65564,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,25.0,Other,40-50h
+Becoming a Successful Leader (Inclusive Leadership Training),215705,Self-paced on your time,Introductory,Communication,English,English,49.0,Other,0-10h
+"English for Journalists, Part 1",50847,Self-paced on your time,Intermediate,Communication,English,English,139.0,University,10-20h
+Introduction to Networking,16134,Self-paced on your time,Introductory,Computer Science,English,English,150.0,University,20-30h
+Accounting Essentials,58463,Self-paced on your time,Introductory,Business & Management,English,English,79.0,University,20-30h
+Introduction to Java Programming: Starting to code in Java,325554,Self-paced on your time,Introductory,Computer Science,English,"English, Español, Português, 中文",149.0,University,40-50h
+European Paintings: From Leonardo to Rembrandt to Goya,60734,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Java Programming Fundamentals,12042,Self-paced on your time,Intermediate,Engineering,English,English,49.0,University,40-50h
+"Hollywood: History, Industry, Art",50033,Self-paced on your time,Introductory,Communication,English,English,169.0,University,10-20h
+Data Science Tools,15627,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,30-40h
+Statistical Thinking for Data Science and Analytics,198861,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,40-50h
+Philosophy and Critical Thinking,97175,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+International Law,91868,Self-paced on your time,Advanced,Law,English,English,150.0,University,80h+
+Tourism and Travel Management,38503,Self-paced on your time,Introductory,Business & Management,English,English,5.0,University,10-20h
+Project Management Life Cycle,120019,Self-paced on your time,Intermediate,Business & Management,English,English,150.0,Institute,80h+
+Solar Energy,125069,Self-paced on your time,Introductory,Engineering,English,English,50.0,University,50-60h
+Public Speaking,10129,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Japanese Pronunciation for Communication,62757,Self-paced on your time,Introductory,Communication,日本語,"English, 日本語, 한국어, 中文",99.0,University,20-30h
+Mindfulness and Resilience to Stress at Work,33414,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,0-10h
+Framing Your Communication to Inspire and Convince,49351,Self-paced on your time,Intermediate,Business & Management,English,English,125.0,University,20-30h
+Business Foundations,55154,Self-paced on your time,Introductory,Business & Management,English,English,150.0,University,20-30h
+The Chemistry of Life,78704,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,30-40h
+Nutrition and Health: Micronutrients and Malnutrition,78266,Self-paced on your time,Intermediate,Biology & Life Sciences,English,English,99.0,University,40-50h
+Digital Design,12339,Self-paced on your time,Introductory,Design,English,English,50.0,University,20-30h
+Machine Learning for Data Science and Analytics,140419,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,40-50h
+The Science of Everyday Thinking,318399,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,30-40h
+Gestion de projets de développement,41663,Self-paced on your time,Intermediate,Business & Management,Français,Français,25.0,Other,30-40h
+Product Management Fundamentals,11913,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+International Human Rights Law,74424,Self-paced on your time,Advanced,Law,English,English,150.0,University,80h+
+The Best Start in Life: Early Childhood Development for Sustainable Development,23139,Self-paced on your time,Intermediate,Education & Teacher Training,English,"اللغة العربية, English, Español, हिन्दी, Português",49.0,Other,20-30h
+Data Science and Machine Learning Capstone Project,21809,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,Other,20-30h
+"Data Science for Construction, Architecture and Engineering",11113,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,199.0,University,30-40h
+"Nutrition, Heart Disease and Diabetes",24986,Self-paced on your time,Intermediate,Food & Nutrition,English,English,99.0,University,30-40h
+Project Management for Development,62099,Self-paced on your time,Intermediate,Business & Management,English,English,49.0,Other,30-40h
+Introduction to Cloud Infrastructure Technologies,86923,Self-paced on your time,Introductory,Computer Science,English,English,169.0,Other,40-50h
+"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",13566,Self-paced on your time,Introductory,Art & Culture,English,English,65.0,University,20-30h
+Machine Learning,150855,Instructor-led on a course schedule,Advanced,Computer Science,English,English,249.0,University,80h+
+Introducción a la gestión de proyectos,98517,Self-paced on your time,Introductory,Business & Management,Español,Español,50.0,University,20-30h
+Free Cash Flow Analysis,36085,Self-paced on your time,Introductory,Business & Management,English,English,225.0,University,10-20h
+Lean Production,55926,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,20-30h
+Introduction to Algebra,131197,Self-paced on your time,Introductory,Math,English,English,139.0,Other,20-30h
+"LaTeX for Students, Engineers, and Scientists",11823,Self-paced on your time,Introductory,Engineering,English,English,139.0,Other,20-30h
+Leading With Effective Communication (Inclusive Leadership Training),107770,Self-paced on your time,Introductory,Communication,English,English,50.0,Other,0-10h
+Anatomy: Musculoskeletal and Integumentary Systems,51969,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,10-20h
+"Inglés empresarial: ventas, gestión y liderazgo",10897,Instructor-led on a course schedule,Introductory,Business & Management,English,"English, Español",49.0,University,20-30h
+Business Strategy from Wharton: Competitive Advantage,26675,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,20-30h
+Inteligencia emocional para el liderazgo efectivo y colaboración,14726,Self-paced on your time,Introductory,Social Sciences,Español,Español,49.0,University,10-20h
+Introducción al desarrollo de aplicaciones web,27757,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+"Six Sigma: Analyze, Improve, Control",56016,Self-paced on your time,Introductory,Business & Management,English,English,99.0,University,20-30h
+Introducción a la inteligencia emocional,18830,Self-paced on your time,Introductory,Social Sciences,Español,Español,49.0,University,10-20h
+AP® Microeconomics,53664,Self-paced on your time,Introductory,Economics & Finance,English,English,49.0,Institute,40-50h
+Engineering Calculus and Differential Equations,21535,Self-paced on your time,Introductory,Math,English,English,50.0,University,20-30h
+Linear Algebra - Foundations to Frontiers,88570,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,University,80h+
+Habilidades de negociación y comunicación efectiva,19614,Self-paced on your time,Introductory,Business & Management,Español,Español,149.0,Other,20-30h
+Effective Communication for Today's Leader,8862,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,Other,20-30h
+Electric Cars: Technology,40972,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,10-20h
+Site Planning Online,12948,Self-paced on your time,Intermediate,Design,English,English,99.0,Institute,50-60h
+Macroeconometric Forecasting,69358,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,80h+
+Administración pública y fiscal: cómo se gestiona un gobierno,49189,Self-paced on your time,Introductory,Economics & Finance,Español,"Español, Español",25.0,Other,30-40h
+Fundamentals of Red Hat Enterprise Linux,53788,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Other,10-20h
+Algorithms,61722,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,Other,40-50h
+Calculus Applied!,54976,Self-paced on your time,Intermediate,Math,English,English,99.0,University,40-50h
+Precalculus,55576,Self-paced on your time,Intermediate,Math,English,English,49.0,University,80h+
+Fundamentos de anatomía y técnica quirúrgica básica,12133,Instructor-led on a course schedule,Introductory,Medicine,Español,Español,49.0,University,20-30h
+Business Communications,60713,Self-paced on your time,Introductory,Business & Management,English,English,150.0,University,20-30h
+Italian Language and Culture: Intermediate (2019-2020),35058,Self-paced on your time,Intermediate,Language,Italiano,Italiano,49.0,University,40-50h
+International Women's Health and Human Rights,9796,Self-paced on your time,Introductory,Social Sciences,English,English,50.0,University,30-40h
+Blockchain: Understanding Its Uses and Implications,66769,Self-paced on your time,Introductory,Business & Management,English,English,199.0,Other,30-40h
+"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",22366,Self-paced on your time,Intermediate,Math,English,English,49.0,University,20-30h
+Blockchain Technology,55376,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,20-30h
+Basics of Power BI,8314,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,Other,0-10h
+Preparing to Network in English,34337,Self-paced on your time,Introductory,Language,English,English,149.0,University,20-30h
+Mandarin Chinese Essentials,36665,Self-paced on your time,Introductory,Language,English,English,99.0,Other,30-40h
+Human Rights: The Rights of Refugees,84270,Self-paced on your time,Introductory,Humanities,English,English,49.0,Other,10-20h
+What do Architects and Urban Planners do?,11046,Self-paced on your time,Introductory,Architecture,English,English,49.0,University,0-10h
+"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",22723,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Negotiation Skills and Effective Communication,8146,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,Other,20-30h
+AP® English Literature & Composition – Part 1: Stories,15650,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,30-40h
+"Viruses & How to Beat Them: Cells, Immunity, Vaccines",28710,Self-paced on your time,Introductory,Medicine,English,English,149.0,University,10-20h
+Alianzas: un vehículo para lograr el desarrollo sostenible,17554,Self-paced on your time,Introductory,Social Sciences,Español,English,25.0,Other,30-40h
+Designing and Creating Skirts,13954,Self-paced on your time,Introductory,Design,English,English,99.0,University,20-30h
+Cómo Aprender Online,7958,Self-paced on your time,Introductory,Education & Teacher Training,Español,"English, Español",49.0,Other,0-10h
+Computing in Python II: Control Structures,31511,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Institute,40-50h
+Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,29614,Self-paced on your time,Introductory,Communication,Español,Español,49.0,University,10-20h
+Machine Learning Fundamentals,82008,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,350.0,University,80h+
+Pre-University Calculus,103224,Self-paced on your time,Introductory,Math,English,English,50.0,University,50-60h
+Tsinghua Chinese: Start Talking with 1.3 Billion People,58834,Self-paced on your time,Introductory,Language,English,English,49.0,University,10-20h
+Deep Learning with Python and PyTorch,36195,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,Other,10-20h
+Diseña presentaciones eficaces con Powerpoint,36663,Self-paced on your time,Introductory,Computer Science,Español,Español,50.0,University,20-30h
+World of Wine: From Grape to Glass,81839,Self-paced on your time,Introductory,Science,English,English,199.0,University,10-20h
+Sustainable Cities,16619,Self-paced on your time,Intermediate,Environmental Studies,English,"English, हिन्दी",49.0,Other,40-50h
+Introduction to Developmental Psychology,38060,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Creativity & Entrepreneurship,69413,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,10-20h
+College Algebra and Problem Solving,103010,Self-paced on your time,Introductory,Math,English,English,49.0,University,80h+
+Academic writing for clarity and meaning,16220,Self-paced on your time,Introductory,Education & Teacher Training,English,English,49.0,University,0-10h
+Financial Development and Financial Inclusion,13853,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,60-70h
+Global Public Health,17273,Self-paced on your time,Intermediate,Health & Safety,English,English,49.0,Other,50-60h
+Embedded Systems - Shape The World: Microcontroller Input/Output,69182,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,University,70-80h
+Introduction to Animal Behaviour,42135,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,30-40h
+Circular Economy: An Introduction,50240,Self-paced on your time,Introductory,Business & Management,English,English,50.0,University,30-40h
+Public Financial Management,23288,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,40-50h
+Anatomy: Human Neuroanatomy,49319,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,20-30h
+Android: Introducción a la Programación,85786,Self-paced on your time,Introductory,Computer Science,Español,Español,50.0,University,40-50h
+The Ancient Greek Hero,51744,Instructor-led on a course schedule,Introductory,Humanities,English,English,99.0,University,80h+
+Agile Leadership Principles and Practices,31838,Self-paced on your time,Advanced,Engineering,English,English,199.0,University,10-20h
+How to Code: Simple Data,98113,Self-paced on your time,Introductory,Computer Science,English,English,125.0,University,10-20h
+Cybersecurity and Privacy in the IoT,21440,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Strategic Management,71085,Self-paced on your time,Introductory,Business & Management,English,"English, हिन्दी",150.0,Institute,20-30h
+Introducción a la ciencia de datos y sus aplicaciones,7303,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,39.0,Other,20-30h
+"Biochemistry: Biomolecules, Methods, and Mechanisms",18692,Instructor-led on a course schedule,Intermediate,Biology & Life Sciences,English,English,150.0,Institute,50-60h
+Astronomía Virtual,10500,Self-paced on your time,Introductory,Science,Español,"English, Español",29.0,University,40-50h
+Nutrition and Cancer,27144,Self-paced on your time,Intermediate,Food & Nutrition,English,English,99.0,University,30-40h
+Build your very first iOS app,31570,Instructor-led on a course schedule,Introductory,Computer Science,English,English,149.0,University,70-80h
+Object-Oriented Programming,93633,Self-paced on your time,Introductory,Computer Science,English,English,149.0,Other,20-30h
+Introduction to Jenkins,7233,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,20-30h
+Conducting an Informational Interview,15594,Self-paced on your time,Introductory,Language,English,English,99.0,University,30-40h
+Liderazgo y comportamiento organizacional,21419,Self-paced on your time,Introductory,Business & Management,Español,Español,149.0,Other,20-30h
+Creative Coding,18660,Instructor-led on a course schedule,Introductory,Design,English,English,249.0,University,80h+
+Análisis estadístico con Excel,22717,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,University,10-20h
+Introducción a la Ingeniería del Software,17931,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+Computer Graphics,98553,Self-paced on your time,Intermediate,Computer Science,English,"English, 中文",99.0,University,50-60h
+Data Science: Computational Thinking with Python,78232,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Comunicación efectiva para el líder actual,18470,Self-paced on your time,Introductory,Communication,Español,Español,149.0,Other,20-30h
+Debate y argumentación,10954,Self-paced on your time,Introductory,Humanities,Español,Español,49.0,University,20-30h
+Deep Learning with Tensorflow,37564,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,Other,10-20h
+Machine Learning (aprendizaje automático) con Python: una introducción práctica,39155,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,Other,20-30h
+Essential Human Biology: Cells and Tissues,67961,Self-paced on your time,Introductory,Medicine,English,English,169.0,University,10-20h
+"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告",35720,Self-paced on your time,Intermediate,Communication,English,English,49.0,University,10-20h
+Computing in Python III: Data Structures,27239,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Institute,40-50h
+Introduction to Internet of Things (IoT),6703,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,Other,0-10h
+Nutrition and Health: Food Risks,51493,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,50-60h
+Mechanics: Kinematics and Dynamics,35529,Self-paced on your time,Intermediate,Physics,English,English,49.0,Institute,80h+
+Storytelling for Social Change,30313,Self-paced on your time,Introductory,Communication,English,English,49.0,University,10-20h
+Introduction to Data Analytics for Managers,39113,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,10-20h
+Qualitative Research Methods: Conversational Interviewing,21972,Self-paced on your time,Intermediate,Humanities,English,English,49.0,Institute,0-10h
+International Project Management,45145,Self-paced on your time,Advanced,Business & Management,English,English,150.0,Institute,80h+
+Software Development Fundamentals,51402,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,20-30h
+"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",17484,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+Critical Thinking & Problem Solving,6558,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Data Analysis Essentials,42262,Self-paced on your time,Introductory,Business & Management,English,English,79.0,University,30-40h
+Master Control in Supply Chain Management and Logistics,31326,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,30-40h
+Work and Employment for a Sustainable Future,6528,Self-paced on your time,Intermediate,Economics & Finance,English,English,49.0,Other,10-20h
+Foundations of Data Structures,54075,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,Other,40-50h
+"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",31024,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,50-60h
+IoT System Design: Software and Hardware Integration,13608,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,20-30h
+English for Doing Business in Asia – Writing,44252,Self-paced on your time,Introductory,Humanities,English,English,60.0,University,20-30h
+Working in Teams: A Practical Guide,43981,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Introducción a los encofrados y las cimbras en obra civil y edificación,16029,Self-paced on your time,Introductory,Engineering,Español,Español,50.0,University,10-20h
+AI Chatbots without Programming,35440,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Other,0-10h
+Introducción a la Ciencia de Datos y el Big Data,16268,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,49.0,Other,10-20h
+Just Money: Banking as if Society Mattered,25553,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Institute,50-60h
+Introducción a R,6431,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,University,20-30h
+Computing in Python IV: Objects & Algorithms,28112,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Institute,40-50h
+Adobe Illustrator: aprende a crear presentaciones de impacto,18613,Self-paced on your time,Introductory,Design,Español,Español,15.0,University,40-50h
+Teaching Critical Thinking through Art with the National Gallery of Art,18595,Self-paced on your time,Introductory,Education & Teacher Training,English,"English, Español, Français, 中文",25.0,Other,50-60h
+Word intermedio: herramientas de formato y productividad,10265,Self-paced on your time,Intermediate,Computer Science,Español,Español,50.0,University,20-30h
+Introducción a las finanzas: Principios de valoración,17344,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.0,University,30-40h
+Aprende a diseñar jardines verticales y cuadros vivos,6341,Self-paced on your time,Introductory,Biology & Life Sciences,Español,Español,29.0,University,0-10h
+"Anatomy: Cardiovascular, Urinary, and Respiratory Systems",36917,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,10-20h
+Software Engineering: Introduction,35524,Self-paced on your time,Advanced,Computer Science,English,English,125.0,University,50-60h
+Structure of Materials,13042,Self-paced on your time,Intermediate,Engineering,English,English,150.0,Institute,80h+
+Fundamentos de fotografía documental,13036,Self-paced on your time,Introductory,Art & Culture,Español,Español,49.0,University,30-40h
+AP® Italian Language and Culture (2020-2021),39398,Self-paced on your time,Advanced,Humanities,Italiano,Italiano,49.0,University,60-70h
+Computer Hardware and Operating Systems,9715,Self-paced on your time,Introductory,Computer Science,English,English,150.0,University,20-30h
+Marketing Management,43415,Instructor-led on a course schedule,Advanced,Business & Management,English,English,214.0,University,60-70h
+You Can Innovate: User  Innovation & Entrepreneurship,18974,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Institute,30-40h
+Analytics in Python,82210,Instructor-led on a course schedule,Intermediate,Business & Management,English,Sin dato,249.0,University,80h+
+Bases Matemáticas: Álgebra,35811,Self-paced on your time,Introductory,Math,Español,Español,50.0,University,10-20h
+HTML5 Apps and Games,86850,Self-paced on your time,Advanced,Computer Science,English,English,199.0,Other,20-30h
+MATLAB and Octave for Beginners,68706,Self-paced on your time,Introductory,Computer Science,English,English,139.0,Other,20-30h
+AP Physics 1,43401,Self-paced on your time,Introductory,Physics,English,English,49.0,University,60-70h
+The Divine Comedy: Dante's Journey to Freedom,12005,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,70-80h
+Linux Basics: The Command Line Interface,32726,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+Entrepreneurial Operations: Launching a Startup,23808,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,University,20-30h
+Maths Essentials,44642,Self-paced on your time,Introductory,Business & Management,English,English,79.0,University,20-30h
+"Marketing Analytics: Products, Distribution and Sales",50588,Self-paced on your time,Intermediate,Computer Science,English,English,249.0,University,20-30h
+Marketing Innovative Products and Services,6293,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,10-20h
+Just Reading and Writing in English | 生活英语读写,33303,Self-paced on your time,Introductory,Art & Culture,English,English,149.0,University,40-50h
+Introduction to Java Programming – Part 1,270376,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,20-30h
+Comunicación y Redacción Digital,7165,Self-paced on your time,Introductory,Communication,Español,Español,29.0,University,10-20h
+Monetary Policy Analysis and Forecasting,6616,Self-paced on your time,Advanced,Economics & Finance,English,English,25.0,Other,50-60h
+Basic Analytical Chemistry,19010,Self-paced on your time,Introductory,Chemistry,English,English,49.0,University,20-30h
+Identifying Entrepreneurial Opportunities,11922,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,10-20h
+"ChinaX Book Club: Five Authors, Five Books, Five Views of China",5855,Self-paced on your time,Introductory,Literature,English,English,139.0,University,0-10h
+Astrophysics: Cosmology,83322,Self-paced on your time,Intermediate,Physics,English,English,50.0,University,30-40h
+Japanese Culture and Language (I) |日语与日本文化（1）,18489,Self-paced on your time,Introductory,Art & Culture,中文,"日本語, 中文",139.0,University,40-50h
+COVID-19 Training for Healthcare Workers,5742,Self-paced on your time,Introductory,Medicine,English,English,10.0,University,10-20h
+The Rise of Superheroes and Their Impact On Pop Culture,31368,Self-paced on your time,Introductory,Humanities,English,English,50.0,Other,0-10h
+Introduction to Aeronautical Engineering,99971,Self-paced on your time,Introductory,Engineering,English,English,50.0,University,70-80h
+Diseño de Jardines,5683,Self-paced on your time,Introductory,Biology & Life Sciences,Español,Español,29.0,University,0-10h
+"Introducción al griego clásico: lengua, nombres y mitología",18849,Self-paced on your time,Introductory,Language,Español,Español,49.0,University,20-30h
+Deep Learning Fundamentals with Keras,32140,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,Other,10-20h
+Existential Well-being Counseling: A Person-centered Experiential Approach,48439,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,80h+
+Solid Waste Management,7668,Self-paced on your time,Introductory,Environmental Studies,English,English,5.0,Other,10-20h
+Retail Fundamentals,37558,Self-paced on your time,Intermediate,Business & Management,English,English,99.0,University,10-20h
+Greatest Unsolved Mysteries of the Universe,93965,Self-paced on your time,Intermediate,Physics,English,English,50.0,University,20-30h
+"Money Markets, Foreign Exchange and Time Value of Money",12230,Self-paced on your time,Introductory,Economics & Finance,English,English,199.0,Other,0-10h
+Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,14627,Self-paced on your time,Introductory,Communication,Español,Español,49.0,University,30-40h
+Designing the User Experience,6416,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+Introduction to Bioconductor,36370,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,149.0,University,10-20h
+Connected Strategy,10355,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,10-20h
+Hybrid Vehicles,18294,Instructor-led on a course schedule,Advanced,Engineering,English,English,249.0,University,80h+
+First Nights - Handel's Messiah and Baroque Oratorio,18029,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+Statistical Inference and Modeling for High-throughput Experiments,51590,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,149.0,University,10-20h
+First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,13300,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+18th-Century Opera: Handel & Mozart,18331,Self-paced on your time,Introductory,Music,English,English,99.0,University,10-20h
+Introduction to video game development with Unity,7605,Self-paced on your time,Intermediate,Computer Science,English,English,50.0,University,20-30h
+Best Practices for Project Management Success,46610,Self-paced on your time,Intermediate,Business & Management,English,English,150.0,Institute,80h+
+Fundamentos de la Tecnología Blockchain,5473,Self-paced on your time,Introductory,Economics & Finance,Español,Español,49.0,University,40-50h
+Información financiera y su análisis,5473,Self-paced on your time,Advanced,Economics & Finance,Español,Español,49.99,Other,20-30h
+Coaching Skills for Learner-Centred Conversations,8089,Self-paced on your time,Introductory,Education & Teacher Training,English,English,49.0,University,0-10h
+Intellectual Property Law and Policy: Part 1,43993,Self-paced on your time,Intermediate,Law,English,English,169.0,University,10-20h
+Robotics,68199,Instructor-led on a course schedule,Advanced,Computer Science,English,English,249.0,University,80h+
+La gestion des ressources humaines,6824,Self-paced on your time,Introductory,Business & Management,Français,Français,99.0,Other,10-20h
+Writing for Social Justice,9927,Self-paced on your time,Introductory,Humanities,English,English,50.0,University,10-20h
+Steps in Japanese for Beginners1 Part2,8080,Self-paced on your time,Introductory,Language,English,"English, 日本語",99.0,University,20-30h
+Case Studies in Functional Genomics,26850,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,149.0,University,10-20h
+Essential Career Skills for Investment Banking and Finance,11655,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Other,0-10h
+Data Structures and Software Design,30609,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,30-40h
+Unconscious Bias: From Awareness to Action,26659,Self-paced on your time,Introductory,Communication,English,English,49.0,Other,0-10h
+Cybersecurity for Critical Urban Infrastructure,5306,Self-paced on your time,Advanced,Computer Science,English,English,100.0,Institute,10-20h
+"Agile Process, Project, and Program Controls",16339,Self-paced on your time,Advanced,Engineering,English,English,199.0,University,10-20h
+Risk Management in Development Projects,13263,Self-paced on your time,Intermediate,Business & Management,English,English,25.0,Other,20-30h
+"Pintura europea: Leonardo, Rembrandt, Goya",32635,Self-paced on your time,Introductory,Humanities,Español,Español,29.0,University,10-20h
+Risk & Return,21970,Self-paced on your time,Introductory,Business & Management,English,English,225.0,University,10-20h
+Project Management of Engineering Projects: Preparing for Success,42834,Instructor-led on a course schedule,Intermediate,Business & Management,English,English,99.0,University,50-60h
+Supply Chain Dynamics,75464,Instructor-led on a course schedule,Advanced,Business & Management,English,English,299.0,Institute,80h+
+AWS Developer: Building on AWS,54249,Self-paced on your time,Advanced,Computer Science,English,English,149.0,Other,20-30h
+Financial Accounting Made Fun: Eliminating Your Fears,36787,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+PredictionX: John Snow and the Cholera Epidemic of 1854,17713,Self-paced on your time,Introductory,History,English,English,25.0,University,0-10h
+Gestión de operaciones,9512,Self-paced on your time,Introductory,Business & Management,Español,"English, Español",119.0,University,30-40h
+Microeconomics & Business,10962,Self-paced on your time,Introductory,Economics & Finance,English,English,79.0,University,80h+
+Inteligencia artificial: Chatbots sin programación,5001,Self-paced on your time,Introductory,Computer Science,Español,English,49.0,Other,0-10h
+Diseño e innovación de modelo de negocios,7180,Self-paced on your time,Advanced,Business & Management,Español,English,99.0,Other,20-30h
+Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),29171,Self-paced on your time,Introductory,Economics & Finance,English,English,5.0,Other,20-30h
+Business Communication,0,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Gestão de riscos em projetos,8771,Self-paced on your time,Intermediate,Business & Management,Português,Português,25.0,Other,30-40h
+Vocal Recording Technology,52369,Self-paced on your time,Introductory,Engineering,English,English,49.0,University,30-40h
+Agua 2.0: empresas eficientes para el siglo XXI,0,Self-paced on your time,Introductory,Business & Management,Español,Español,25.0,Other,20-30h
+IoT Sensors and Devices,33072,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Introducción a las tecnologías para la Educación,31533,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,10-20h
+Fundamentos de la guitarra eléctrica y acústica,13124,Self-paced on your time,Introductory,Music,Español,Español,49.0,University,20-30h
+e-Learning on Digital Agriculture,6238,Self-paced on your time,Introductory,Environmental Studies,English,English,5.0,Other,10-20h
+Exploring GraphQL: A Query Language for APIs,9503,Self-paced on your time,Introductory,Computer Science,English,English,149.0,Other,10-20h
+EmSAT English Preparation - Level 2,7346,Self-paced on your time,Intermediate,Language,English,English,49.0,University,10-20h
+The Data Science Method,7868,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,30-40h
+"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源",21291,Self-paced on your time,Introductory,Humanities,English,"English, 中文",49.0,University,30-40h
+"Cosmic Rays, Dark Matter, and the Mysteries of the Universe",12888,Self-paced on your time,Intermediate,Physics,English,English,49.0,University,10-20h
+Macroeconomic Diagnostics,23408,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,40-50h
+BioStatistics,14937,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,79.0,University,60-70h
+Results-Based Project Management: Monitoring and Evaluation,32810,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,20-30h
+Estrategias y estilos de negociación,12639,Self-paced on your time,Introductory,Business & Management,Español,English,149.0,Other,20-30h
+Políticas efectivas de desarrollo infantil,64387,Self-paced on your time,Intermediate,Social Sciences,Español,"English, Español, Português",25.0,Other,40-50h
+Alzheimer’s Disease & Dementia Care,5763,Self-paced on your time,Intermediate,Medicine,English,English,49.0,University,10-20h
+Understanding Classroom Interaction,27114,Self-paced on your time,Introductory,Education & Teacher Training,English,English,49.0,University,10-20h
+Sign Language Science: Emergence and Evolution of Sign Language,8313,Self-paced on your time,Introductory,Language,English,English,99.0,University,10-20h
+International Humanitarian Law,31419,Self-paced on your time,Advanced,Law,English,English,150.0,University,80h+
+"Educación de calidad para todos: equidad, inclusión y atención a la diversidad",25111,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,49.0,University,20-30h
+Introduction to Astrophysics,20802,Self-paced on your time,Introductory,Physics,English,English,139.0,Other,20-30h
+Epidemics I,10618,Self-paced on your time,Introductory,Medicine,English,"English, 中文, 中文",139.0,University,10-20h
+Introducción a la genética y la evolución,15297,Self-paced on your time,Introductory,Biology & Life Sciences,Español,Español,49.0,University,0-10h
+Fundamentals of Macroeconomics,17820,Self-paced on your time,Introductory,Economics & Finance,English,English,129.0,University,10-20h
+"Blockchain and FinTech: Basics, Applications, and Limitations",22011,Self-paced on your time,Introductory,Computer Science,English,"English, 中文",199.0,University,20-30h
+Molecular Biology - Part 2: Transcription and Transposition,18168,Self-paced on your time,Advanced,Biology & Life Sciences,English,"English, 中文",99.0,Institute,40-50h
+"One Planet, One Ocean",12166,Self-paced on your time,Intermediate,Environmental Studies,English,English,49.0,Other,30-40h
+Reputation Management in a Digital World,39672,Self-paced on your time,Intermediate,Communication,English,English,99.0,University,20-30h
+Google Ads: publicidad efectiva,12084,Self-paced on your time,Introductory,Business & Management,Español,Español,49.0,University,10-20h
+Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,14673,Self-paced on your time,Intermediate,Engineering,Español,Español,50.0,University,10-20h
+Computer Vision Fundamentals with Watson and OpenCV,7032,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Other,80h+
+Japanese Business Management,14852,Self-paced on your time,Intermediate,Business & Management,English,English,129.0,University,10-20h
+Introduction to Cloud Computing,0,Self-paced on your time,Introductory,Computer Science,English,English,49.0,Other,0-10h
+Fundamentos de logística,7397,Self-paced on your time,Introductory,Engineering,Español,Español,29.0,Other,30-40h
+Sustainable Urban Development,45760,Self-paced on your time,Introductory,Social Sciences,English,English,50.0,University,30-40h
+Introduction to Biomedical Imaging,56485,Self-paced on your time,Introductory,Medicine,English,English,99.0,University,50-60h
+Introducción a la programación en Java: empezando a programar,23321,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,40-50h
+"Circuits and Electronics 2: Amplification, Speed, and Delay",9665,Self-paced on your time,Intermediate,Electronics,English,"English, 中文",169.0,Institute,40-50h
+China’s Political and Intellectual Foundations: From Sage Kings to Confucius,47083,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Introduction to DevOps and Site Reliability Engineering,8697,Self-paced on your time,Introductory,Computer Science,English,English,149.0,Other,10-20h
+SQL aplicado en la  ciencia de datos,0,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,39.0,Other,10-20h
+Sign Language Science: Factors Contributing to Nature Structure,0,Self-paced on your time,Introductory,Language,English,English,99.0,University,10-20h
+Gender and Intersectionality,0,Self-paced on your time,Introductory,Humanities,English,English,50.0,University,20-30h
+Digital Transformation in Business,10118,Self-paced on your time,Advanced,Business & Management,English,English,214.0,University,60-70h
+Designing and Creating Trousers,7544,Self-paced on your time,Introductory,Design,English,English,99.0,University,20-30h
+Introducción a la teoría política: conceptos y grandes pensadores,11741,Self-paced on your time,Introductory,Social Sciences,Español,Español,59.0,University,30-40h
+"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion",11426,Self-paced on your time,Intermediate,Social Sciences,English,"English, Русский",49.0,Other,30-40h
+Industry 4.0: How to Revolutionize your Business,28404,Self-paced on your time,Introductory,Business & Management,English,English,50.0,University,40-50h
+Desafíos y oportunidades en la economía digital,47792,Self-paced on your time,Introductory,Economics & Finance,Español,Español,25.0,Other,20-30h
+Pensamiento crítico: toma de decisiones razonadas,16853,Self-paced on your time,Introductory,Business & Management,Español,Español,149.0,Other,20-30h
+"MathTrackX: Polynomials, Functions and Graphs",0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
+Sustainable Food Security: Crop Production,35367,Self-paced on your time,Intermediate,Biology & Life Sciences,English,English,49.0,University,40-50h
+Network and Security Foundations,7301,Self-paced on your time,Introductory,Computer Science,English,English,299.7,University,70-80h
+Cannabis Cultivation and Processing,7419,Self-paced on your time,Introductory,Environmental Studies,English,English,179.0,University,20-30h
+"Data, Models and Decisions in Business Analytics",36289,Instructor-led on a course schedule,Advanced,Business & Management,English,Sin dato,249.0,University,80h+
+Data Structures Fundamentals,42381,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,50-60h
+Shaping Work of the Future,22246,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Institute,30-40h
+Introducción a la robótica e industria 4.0,7056,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,10-20h
+Fighting for Equality: 1950–2018,9274,Self-paced on your time,Intermediate,History,English,English,50.0,University,20-30h
+"Design Thinking: Ideation, Iteration and Communication",14629,Self-paced on your time,Intermediate,Business & Management,English,English,299.0,Institute,60-70h
+Negotiation Strategies and Styles,0,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,Other,20-30h
+Crear música con tecnología,10961,Self-paced on your time,Introductory,Music,Español,Español,49.0,University,20-30h
+Análisis de datos: Diseño y Visualización de Tableros,18368,Self-paced on your time,Intermediate,Computer Science,Español,"English, Español",49.0,University,40-50h
+Comunicación estratégica: gestión de crisis e imagen pública,7017,Self-paced on your time,Introductory,Communication,Español,Español,49.0,University,10-20h
+"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",14052,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,10-20h
+Unlocking Information Security: Part II,6426,Self-paced on your time,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0,University,30-40h
+Human Rights Defenders,27338,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,Other,10-20h
+Product Design: The Delft Design Approach,87539,Self-paced on your time,Intermediate,Business & Management,English,English,79.0,University,40-50h
+Introduction to Psychology | 心理学概论,30731,Self-paced on your time,Introductory,Philosophy & Ethics,中文,English,139.0,University,50-60h
+Circuits and Electronics 3: Applications,9347,Self-paced on your time,Intermediate,Electronics,English,"English, 中文",169.0,Institute,60-70h
+Vaccines: from smallpox to technologies of the future,6166,Self-paced on your time,Intermediate,Medicine,English,English,49.0,University,20-30h
+Le management,6273,Self-paced on your time,Introductory,Business & Management,Français,Français,149.0,Other,10-20h
+Circular Economy for a Sustainable Built Environment,8032,Self-paced on your time,Intermediate,Architecture,English,English,50.0,University,20-30h
+Agile Innovation and Problem Solving Skills,12667,Self-paced on your time,Advanced,Engineering,English,English,199.0,University,10-20h
+International Investment Law,23335,Instructor-led on a course schedule,Advanced,Law,English,English,150.0,University,70-80h
+Animation and CGI Motion,36827,Instructor-led on a course schedule,Advanced,Computer Science,English,English,249.0,University,80h+
+Terrorism and Counterterrorism,28580,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,60-70h
+Découvrir le marketing,30030,Instructor-led on a course schedule,Intermediate,Business & Management,Français,Français,150.0,University,40-50h
+Solar Energy: Photovoltaic (PV) Energy Conversion,38041,Instructor-led on a course schedule,Advanced,Engineering,English,English,250.0,University,80h+
+Introduction to Actuarial Science,52667,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,University,20-30h
+PredictionX: Lost Without Longitude,9114,Self-paced on your time,Introductory,History,English,English,49.0,University,0-10h
+Information Technology Foundations,6388,Self-paced on your time,Introductory,Computer Science,English,English,399.6,University,50-60h
+Introducción a la Inteligencia Artificial de Watson,0,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,Other,40-50h
+Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,16013,Self-paced on your time,Intermediate,Business & Management,English,English,125.0,University,20-30h
+Instructional Design and Technology: Learning Theories,21296,Instructor-led on a course schedule,Intermediate,Education & Teacher Training,English,English,299.0,University,70-80h
+"Algorithms: Design and Analysis, Part 2",0,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,10-20h
+The Math of Data Science: Linear Algebra,6746,Self-paced on your time,Intermediate,Math,English,English,159.0,University,50-60h
+Introducción al quirófano,0,Self-paced on your time,Intermediate,Medicine,Español,Español,49.0,University,20-30h
+The Hardware of a Quantum Computer,20052,Self-paced on your time,Intermediate,Physics,English,English,79.0,University,40-50h
+Grabar y mezclar música,10856,Self-paced on your time,Introductory,Music,Español,Español,49.0,University,10-20h
+Leadership focused on Human Flourishing,0,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,Other,20-30h
+Automata Theory,0,Self-paced on your time,Advanced,Computer Science,English,English,129.0,University,50-60h
+¡Conceptos básicos de Python para Data Science!,0,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,Other,10-20h
+Herramientas para el Análisis de Big Data,8118,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,49.0,Other,10-20h
+Foundations of Central Bank Law,6169,Self-paced on your time,Intermediate,Law,English,English,25.0,Other,20-30h
+C Programming: Modular Programming and Memory Management,18690,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+Enseñanza temprana de matemáticas y ciencias,8250,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,25.0,Other,10-20h
+Entrepreneurship 102: What can you do for your customer?,11275,Self-paced on your time,Introductory,Business & Management,English,English,49.0,Institute,30-40h
+Italian Language and Culture: Advanced (2019-2020),24667,Self-paced on your time,Advanced,Language,Italiano,Italiano,49.0,University,40-50h
+Introduction to Marketing,0,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,10-20h
+Origins of the Human Mind,11812,Self-paced on your time,Introductory,Science,English,English,49.0,University,10-20h
+Introduction to Geometry,61824,Self-paced on your time,Introductory,Math,English,English,50.0,Other,70-80h
+The Future of Work: Preparing for Disruption,43125,Self-paced on your time,Introductory,Economics & Finance,English,"اللغة العربية, English, Español, Français, Русский, 中文",5.0,Other,20-30h
+Clinical Reasoning Process,5367,Self-paced on your time,Introductory,Medicine,English,English,149.0,University,10-20h
+Datos para la efectividad de las políticas públicas,80425,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,25.0,Other,40-50h
+Media Law,7253,Instructor-led on a course schedule,Introductory,Art & Culture,English,English,249.0,University,80h+
+Líderes para la Gestión en Seguridad Ciudadana y Justicia,12826,Self-paced on your time,Intermediate,Social Sciences,Español,Español,25.0,Other,40-50h
+"Diseña, fabrica y programa tu propio robot",25024,Self-paced on your time,Introductory,Engineering,Español,Español,75.0,University,50-60h
+Pivoting to Online Teaching: Research and Practitioner Perspectives,5289,Self-paced on your time,Introductory,Education & Teacher Training,English,English,139.0,University,20-30h
+Circular Economy: An Interdisciplinary Approach,10281,Self-paced on your time,Advanced,Business & Management,English,English,149.0,University,80h+
+Calculus 1B: Integration,44669,Instructor-led on a course schedule,Intermediate,Math,English,English,100.0,Institute,80h+
+Algorithmic Design and Techniques,40620,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,50-60h
+Drinking Water Treatment,51918,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,40-50h
+Fundamentos de información financiera y contable,7789,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.0,University,30-40h
+Les principes de la finance,44037,Self-paced on your time,Intermediate,Business & Management,Français,Français,150.0,University,70-80h
+Music Technology Foundations,34550,Self-paced on your time,Introductory,Computer Science,English,English,169.0,University,10-20h
+The Entrepreneurial Mindset,31077,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,30-40h
+"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",26453,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,10-20h
+Risk Management and Credit Principles,9028,Self-paced on your time,Advanced,Economics & Finance,English,English,199.0,Other,10-20h
+Steps in Japanese for Beginners1 Part3,6169,Self-paced on your time,Introductory,Language,English,English,99.0,University,20-30h
+Structural Materials: Selection and Economics,9752,Self-paced on your time,Introductory,Engineering,English,English,50.0,Institute,0-10h
+Algorithm Design and Analysis,39137,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,20-30h
+Estructuras de Datos con Python,0,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+Mandarin Chinese for Business,12384,Self-paced on your time,Intermediate,Language,English,English,149.0,Other,40-50h
+Bases Matemáticas: Números y terminología,26060,Self-paced on your time,Intermediate,Math,Español,Español,50.0,University,10-20h
+Arab-Islamic History: From Tribes to Empires,17321,Self-paced on your time,Introductory,Humanities,English,English,149.0,University,20-30h
+Human-Computer Interaction I: Fundamentals & Design Principles,9010,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Institute,30-40h
+Modeling and simulation of multibody systems,0,Instructor-led on a course schedule,Intermediate,Engineering,English,English,50.0,University,80h+
+The Science of Parenting,37538,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,20-30h
+Inclusive Teaching: Supporting All Students in the College Classroom,9899,Self-paced on your time,Introductory,Education & Teacher Training,English,English,49.0,University,10-20h
+Analytics for Decision Making,31031,Self-paced on your time,Introductory,Business & Management,English,English,249.0,University,20-30h
+Principios de Análisis e Instrumentos Financieros,0,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.0,University,30-40h
+Energy Principles and Renewable Energy,19520,Instructor-led on a course schedule,Advanced,Energy & Earth Sciences,English,English,375.0,University,80h+
+DNA: Biology’s Genetic Code,35162,Self-paced on your time,Intermediate,Biology & Life Sciences,English,English,169.0,University,30-40h
+Music For Wellness,19728,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+Mining Massive Datasets,5311,Self-paced on your time,Advanced,Computer Science,English,English,149.0,University,50-60h
+Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,25041,Self-paced on your time,Introductory,Engineering,English,"English, 日本語",50.0,Institute,10-20h
+A travel by Spanish America: Spanish for beginners,0,Self-paced on your time,Introductory,Language,Español,Español,49.0,University,20-30h
+Introducción a la Inteligencia Artificial,11184,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,10-20h
+Introducción a la Inteligencia Artificial: Principales Algoritmos,0,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,10-20h
+Digital Security and Human Rights,11443,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,Other,0-10h
+Critical thinking: reasoned decision making,6923,Self-paced on your time,Introductory,Business & Management,English,English,149.0,Other,20-30h
+Introduction to the Internet of Things,7581,Self-paced on your time,Introductory,Electronics,English,English,50.0,University,30-40h
+Trading - Fundamentals of Technical Analysis,0,Self-paced on your time,Introductory,Economics & Finance,English,English,199.0,Other,10-20h
+Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,20261,Self-paced on your time,Introductory,Medicine,Español,Español,49.0,University,20-30h
+Design Thinking: Empathizing to Understand the Problem,13340,Self-paced on your time,Intermediate,Business & Management,English,English,299.0,Institute,60-70h
+Storytelling in the Workplace,0,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Marketing Analytics: Price and Promotion Analytics,41021,Self-paced on your time,Intermediate,Computer Science,English,English,249.0,University,20-30h
+Implementation of Data Structures,27761,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,Other,40-50h
+Activism and Citizen Journalism through Media,7460,Self-paced on your time,Introductory,Communication,English,English,49.0,University,10-20h
+Electric and Conventional Vehicles,22089,Instructor-led on a course schedule,Advanced,Engineering,English,English,249.0,University,80h+
+Big Data Fundamentals,40106,Self-paced on your time,Intermediate,Computer Science,English,English,199.0,University,80h+
+Sustainable Food Security: The value of systems thinking,26600,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,49.0,University,50-60h
+Knowledge Management and Big Data in Business,69064,Self-paced on your time,Introductory,Business & Management,English,English,50.0,University,50-60h
+Uso efectivo del tiempo,6409,Self-paced on your time,Introductory,Economics & Finance,Español,Español,49.0,University,40-50h
+C Programming: Pointers and Memory Management,19171,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,20-30h
+Astrophysics: The Violent Universe,65711,Self-paced on your time,Intermediate,Physics,English,English,50.0,University,30-40h
+Landscape Ecology,8644,Self-paced on your time,Intermediate,Environmental Studies,English,English,50.0,Other,40-50h
+IoT Programming and Big Data,21591,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+AWS: Getting Started with Cloud Security,8192,Self-paced on your time,Introductory,Computer Science,English,English,49.0,Other,10-20h
+Introducción a la gravedad cuántica de lazos,7360,Self-paced on your time,Introductory,Science,Español,"English, Español",50.0,University,30-40h
+Introduction to the Music Business,46607,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,10-20h
+Introducción a la programación en C: Tipos de datos y estructuras,13480,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,10-20h
+Visualización de Datos y Storytelling,5980,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,49.0,Other,10-20h
+Negociación exitosa: Estrategias y habilidades esenciales (en español),0,Self-paced on your time,Introductory,Business & Management,Español,Español,49.0,University,20-30h
+"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability",10488,Self-paced on your time,Intermediate,Environmental Studies,English,"English, Русский",49.0,Other,20-30h
+Macroeconomics - The Basics,0,Self-paced on your time,Introductory,Economics & Finance,English,English,79.0,University,80h+
+Fundamentals of Financial Mathematics and Capital Budgeting,5410,Self-paced on your time,Introductory,Economics & Finance,English,English,99.0,Other,0-10h
+Gestión participativa: motivación y liderazgo organizacional,23441,Self-paced on your time,Intermediate,Business & Management,Español,Español,79.0,University,20-30h
+Herramientas de ciencia de datos: uso práctico,0,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,39.0,Other,30-40h
+Bienestar para el desarrollo personal y profesional,0,Self-paced on your time,Intermediate,Health & Safety,Español,"English, Español",29.0,University,30-40h
+Energía eléctrica: conceptos y principios básicos,9762,Self-paced on your time,Intermediate,Engineering,Español,Español,49.0,Other,30-40h
+Market Segmentation Analysis,17055,Self-paced on your time,Intermediate,Business & Management,English,English,99.0,University,30-40h
+Pensamento crítico: tomada de decisões fundamentadas,0,Self-paced on your time,Introductory,Business & Management,Português,Português,149.0,Other,20-30h
+AP® English Literature & Composition – Part 2: Poems,5719,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,30-40h
+"Electrical, Optical & Magnetic Materials and Devices",16905,Self-paced on your time,Intermediate,Engineering,English,English,150.0,Institute,80h+
+Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),0,Self-paced on your time,Introductory,Medicine,English,"English, Français, 中文, 中文",99.0,University,10-20h
+How to Design a Successful Business Model,33656,Self-paced on your time,Introductory,Business & Management,English,"Deutsch, English, Español, Français",99.0,University,20-30h
+Ecodesign for Cities and Suburbs,28472,Self-paced on your time,Introductory,Environmental Studies,English,Sin dato,99.0,University,20-30h
+Agile Software Development,37158,Self-paced on your time,Introductory,Computer Science,English,English,50.0,Other,10-20h
+Diseño de sistemas de información gerencial para intranet con Microsoft Access,9144,Self-paced on your time,Intermediate,Computer Science,Español,Español,49.0,University,30-40h
+Essentials of Program Strategy and Evaluation,0,Self-paced on your time,Introductory,Philanthropy,English,English,50.0,University,30-40h
+Gestão de Projetos de Desenvolvimento,28337,Self-paced on your time,Introductory,Business & Management,Português,Português,49.0,Other,30-40h
+Innovation: From Plan to Product,12918,Self-paced on your time,Intermediate,Business & Management,English,English,249.0,University,80h+
+Introduction to Database Queries,0,Self-paced on your time,Introductory,Computer Science,English,English,166.0,University,30-40h
+Climate Change: Carbon Capture and Storage,10551,Self-paced on your time,Introductory,Engineering,English,English,49.0,University,10-20h
+Reservoir Geomechanics,5280,Self-paced on your time,Introductory,Energy & Earth Sciences,English,English,129.0,University,40-50h
+Fundamentos de administración estratégica,0,Self-paced on your time,Intermediate,Business & Management,Español,Español,49.0,University,30-40h
+IoT System Architecture: Design and Evaluation,5914,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,10-20h
+Noongar Language and Culture,10858,Self-paced on your time,Introductory,Language,English,English,139.0,University,10-20h
+Sorting Truth From Fiction: Civic Online Reasoning,0,Instructor-led on a course schedule,Introductory,Education & Teacher Training,English,English,49.0,Institute,10-20h
+Sustainable Food Security: Food Access,18943,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,40-50h
+Bases Matemáticas: Integrales,23703,Self-paced on your time,Introductory,Math,Español,Español,50.0,University,20-30h
+Epidemics II,8565,Self-paced on your time,Introductory,Medicine,English,"English, 中文, 中文",139.0,University,0-10h
+Derechos humanos: Los derechos de las personas refugiadas,28398,Self-paced on your time,Introductory,Humanities,Español,Español,49.0,Other,10-20h
+Sign Language Science: Factors Contributing to Natural Learning,0,Self-paced on your time,Introductory,Language,English,English,99.0,University,10-20h
+Big Data Analytics,43009,Self-paced on your time,Intermediate,Computer Science,English,English,199.0,University,80h+
+"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",6594,Self-paced on your time,Intermediate,Math,English,English,49.0,University,20-30h
+ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,16028,Self-paced on your time,Introductory,Social Sciences,Español,"English, Español",25.0,University,20-30h
+Achieving Product-Market Fit,0,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+Culture and Law: The East Asian Perspective,0,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Fundamentals of Market Structure,32049,Self-paced on your time,Introductory,Economics & Finance,English,English,25.0,Other,0-10h
+Protecting Children in Humanitarian Settings,7246,Self-paced on your time,Intermediate,Social Sciences,English,English,50.0,University,40-50h
+How to Achieve the Sustainable Development Goals,12719,Self-paced on your time,Intermediate,Environmental Studies,English,"English, Русский",49.0,Other,30-40h
+Aprendizaje y Enseñanza en la Era Digital,16954,Self-paced on your time,Intermediate,Education & Teacher Training,Español,Español,49.0,University,10-20h
+From Atoms to Stars: How Physics Explains Our World,15914,Self-paced on your time,Intermediate,Physics,English,"English, Русский",49.0,University,10-20h
+The Threat of Nuclear Terrorism,0,Self-paced on your time,Introductory,History,English,English,50.0,University,10-20h
+Introducción a Matemáticas para Finanzas y Negocios,0,Self-paced on your time,Advanced,Economics & Finance,Español,Español,49.99,Other,30-40h
+Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),0,Self-paced on your time,Intermediate,Engineering,Español,Español,75.0,University,30-40h
+Liderazgo inclusivo,0,Self-paced on your time,Intermediate,Business & Management,Español,Español,29.0,University,20-30h
+مساق اللّغة العربيّة,0,Self-paced on your time,Introductory,Language,اللغة العربية,اللغة العربية,49.0,University,20-30h
+"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",8330,Self-paced on your time,Intermediate,Physics,English,English,79.0,University,40-50h
+Contemporary Issues in World Politics,11426,Self-paced on your time,Introductory,Social Sciences,English,English,59.0,University,30-40h
+More Fun with Prime Numbers,10604,Self-paced on your time,Intermediate,Math,English,English,49.0,University,0-10h
+Enterprise Selling,5020,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,30-40h
+Climate Change: Financial Risks and Opportunities,9977,Self-paced on your time,Intermediate,Economics & Finance,English,English,79.0,University,20-30h
+Caer o No caer. El Secreto de las Estructuras.,20939,Self-paced on your time,Introductory,Engineering,Español,Español,29.0,University,20-30h
+Mandarin Chinese Level 2,8784,Self-paced on your time,Introductory,Language,English,English,149.0,Other,40-50h
+Design Thinking: Prototyping and User Testing,10769,Self-paced on your time,Intermediate,Business & Management,English,English,299.0,Institute,60-70h
+Bases Matemáticas: Derivadas,24301,Self-paced on your time,Introductory,Math,Español,Español,50.0,University,10-20h
+Buscar en Internet,27320,Self-paced on your time,Introductory,Computer Science,Español,Español,49.0,University,20-30h
+Big Data and Education,14909,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,169.0,University,70-80h
+Model-Based Automotive Systems Engineering,13857,Instructor-led on a course schedule,Advanced,Engineering,English,English,249.0,University,80h+
+Introduction to Hyperledger Blockchain Technologies,138884,Self-paced on your time,Introductory,Business & Management,English,English,199.0,Other,40-50h
+MathTrackX: Integral Calculus,0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
+Solar Energy Engineering: Comprehensive Exams,0,Self-paced on your time,Advanced,Engineering,English,English,250.0,University,40-50h
+Mercados de capital y participantes claves,7210,Self-paced on your time,Introductory,Economics & Finance,Español,Español,49.0,Other,0-10h
+Introducción al desarrollo de videojuegos con Unity,27474,Self-paced on your time,Intermediate,Computer Science,Español,Español,50.0,University,20-30h
+Incorporating Renewable Energy in Electricity Grids,10430,Self-paced on your time,Intermediate,Energy & Earth Sciences,English,English,49.0,University,20-30h
+Herramientas de la Inteligencia de Negocios,24130,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,University,20-30h
+Overview & Management of Parkinson’s Disease,0,Self-paced on your time,Intermediate,Medicine,English,English,49.0,University,10-20h
+Conociendo los costos,0,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.0,University,30-40h
+Sprint Planning for Faster Agile Team Delivery,10654,Self-paced on your time,Advanced,Engineering,English,English,199.0,University,10-20h
+Introduction to Water and Climate,36320,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,70-80h
+The Medieval Icelandic Sagas,11176,Self-paced on your time,Intermediate,Humanities,English,English,50.0,University,10-20h
+Visual Presentation,0,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Community Engagement: Collaborating for Change,11818,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Introducción al Internet de las Cosas (IoT),6322,Self-paced on your time,Introductory,Electronics,Español,Español,50.0,University,30-40h
+"Proteins: Alignment, Analysis and Structure",23560,Instructor-led on a course schedule,Advanced,Biology & Life Sciences,English,English,249.0,University,70-80h
+AI Applications with Watson,9173,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,Other,0-10h
+Data Analytics and Visualization in Health Care,7304,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,249.0,Institute,70-80h
+Question Everything: Scientific Thinking in Real Life,34279,Self-paced on your time,Introductory,Math,English,English,59.0,University,20-30h
+Introduction to Lifestyle Medicine,9002,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,79.0,University,60-70h
+"Social Work Practice with Individuals, Families, and Small Groups",16134,Self-paced on your time,Advanced,Social Sciences,English,English,199.0,University,70-80h
+Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,6938,Self-paced on your time,Introductory,Medicine,中文,"English, 中文",49.0,University,20-30h
+Indian & Tibetan River of Buddhism,6738,Self-paced on your time,Intermediate,Humanities,English,English,49.99,University,30-40h
+Compostaje Orgánico en Casa,0,Instructor-led on a course schedule,Introductory,Environmental Studies,Español,Español,29.0,University,20-30h
+Financial Analysis for Decision Making,39156,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+Lifestyle Medicine Treatments of Chronic Disease – Part 1,5668,Self-paced on your time,Intermediate,Medicine,English,English,179.0,University,20-30h
+Building Containerized Applications on AWS,6128,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,Other,10-20h
+Effective Communication for Program and Project Stakeholders and Teams,0,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+Biobased Products for a Sustainable (Bio)economy,6951,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,50.0,University,50-60h
+Social Work Practice: Advocating Social Justice and Change,19603,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,10-20h
+Anthropology of Current World Issues,44821,Instructor-led on a course schedule,Introductory,Humanities,English,English,99.0,University,20-30h
+Buyer Behaviour and Analysis,19717,Instructor-led on a course schedule,Advanced,Communication,English,English,199.0,University,80h+
+Idea Development: Create and Implement Innovative Ideas,11501,Self-paced on your time,Intermediate,Business & Management,English,English,249.0,University,80h+
+Analysis of Transport Phenomena I: Mathematical Methods,9169,Instructor-led on a course schedule,Advanced,Engineering,English,English,149.0,Institute,80h+
+Leading the Organization,14998,Self-paced on your time,Intermediate,Business & Management,English,English,249.0,University,80h+
+"Financial Programming and Policies, Part 2: Program Design",19330,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,40-50h
+Introduction to Open Source Networking Technologies,17436,Self-paced on your time,Introductory,Computer Science,English,English,169.0,Other,40-50h
+Deep Learning Essentials,5018,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,University,20-30h
+Estadística Aplicada a los Negocios,25295,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,University,20-30h
+"English for Journalists, Part 2",22814,Self-paced on your time,Intermediate,Communication,English,English,49.0,University,10-20h
+Teaching & Learning in the Diverse Classroom,7104,Instructor-led on a course schedule,Introductory,Education & Teacher Training,English,English,99.0,University,10-20h
+Fundamentals of Microeconomics | Fundamentos de Microeconomía,18456,Self-paced on your time,Introductory,Social Sciences,English,"English, Español",129.0,University,10-20h
+Migrating to the AWS Cloud,0,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,Other,10-20h
+IoT Networks and Protocols,22136,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",0,Self-paced on your time,Introductory,History,English,English,50.0,University,30-40h
+China’s First Empires and the Rise of Buddhism,46053,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Apnea y Trastornos del Sueño,14902,Self-paced on your time,Introductory,Health & Safety,Español,Español,49.0,University,80h+
+Educación sobre el cambio climático,23253,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,25.0,Other,40-50h
+Quantum Mechanics: A First Course,0,Instructor-led on a course schedule,Advanced,Physics,English,English,149.0,Institute,80h+
+Urban Sewage Treatment,40408,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,40-50h
+Doing Gender and Why it Matters,6826,Self-paced on your time,Introductory,Social Sciences,English,English,99.0,University,0-10h
+Producción musical y su efecto en la composición,7869,Self-paced on your time,Introductory,Music,Español,Español,49.0,University,20-30h
+"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors",12425,Self-paced on your time,Intermediate,Electronics,English,"English, 中文",70.0,University,20-30h
+"19th-Century Opera: Meyerbeer, Wagner, & Verdi",9340,Self-paced on your time,Introductory,Music,English,English,99.0,University,20-30h
+Modelos predictivos con Machine Learning,5102,Self-paced on your time,Intermediate,Computer Science,Español,Español,49.0,University,20-30h
+Quantitative Marketing Research,0,Self-paced on your time,Introductory,Business & Management,English,English,50.0,Institute,10-20h
+Les fondements de la stratégie d’entreprise,33021,Instructor-led on a course schedule,Introductory,Business & Management,Français,Français,150.0,University,40-50h
+Solar Energy: Integration of Photovoltaic Systems in Microgrids,20068,Instructor-led on a course schedule,Advanced,Engineering,English,English,250.0,University,80h+
+"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability",12630,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,20-30h
+Probability and Statistics I:  A Gentle Introduction to Probability,0,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,199.0,Institute,20-30h
+Introducción a las ecuaciones diferenciales,9868,Self-paced on your time,Intermediate,Math,Español,Español,49.0,University,30-40h
+Agile Mindset Introduction,0,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,Other,0-10h
+Tropical coastal ecosystems,23031,Self-paced on your time,Introductory,Biology & Life Sciences,English,English,99.0,University,40-50h
+Modern China’s Foundations: The Manchus and the Qing,47166,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+El método de ciencia de datos,0,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,39.0,Other,30-40h
+AWS Developer: Deploying on AWS,25244,Self-paced on your time,Advanced,Computer Science,English,English,149.0,Other,20-30h
+Autonomous Mobile Robots,62362,Self-paced on your time,Intermediate,Computer Science,English,English,50.0,Other,80h+
+Gestión por resultados para gobiernos subnacionales,65955,Self-paced on your time,Introductory,Business & Management,Español,Español,25.0,Other,30-40h
+Introduction to Sociology,10412,Self-paced on your time,Introductory,Social Sciences,English,English,139.0,University,30-40h
+Transformación digital en las empresas,0,Self-paced on your time,Introductory,Business & Management,Español,Español,49.0,University,30-40h
+Desafios e oportunidades na economia digital,6913,Self-paced on your time,Introductory,Economics & Finance,Português,Português,25.0,Other,20-30h
+"Cellular Solids Part 1: Structures, Properties and Engineering Applications",7186,Self-paced on your time,Advanced,Engineering,English,English,99.0,Institute,80h+
+Introduction to Statistical Methods for Gene Mapping,15419,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,49.0,University,10-20h
+Cómo vivir una vida saludable y activa,8990,Self-paced on your time,Introductory,Social Sciences,Español,Español,49.0,University,10-20h
+Mandarin Chinese Level 3,8418,Self-paced on your time,Intermediate,Language,English,English,149.0,Other,40-50h
+Databases: Advanced Topics in SQL,0,Self-paced on your time,Introductory,Computer Science,English,English,50.0,University,10-20h
+Data for Effective Policy Making,13797,Self-paced on your time,Introductory,Math,English,English,25.0,Other,30-40h
+C Programming: Using Linux Tools and Libraries,13912,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,University,30-40h
+Lernen objekt-orientierter Programmierung,10657,Instructor-led on a course schedule,Introductory,Computer Science,Deutsch,Deutsch,49.0,University,20-30h
+Cybersecurity: The CISO's View,21507,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Fundamentals of Java EE Development,10129,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,Other,10-20h
+"Instructional Design: Digital Media, New Tools and Technology",16419,Self-paced on your time,Intermediate,Education & Teacher Training,English,English,299.0,University,70-80h
+Molecular Biology – Part 3: RNA Processing and Translation,16520,Self-paced on your time,Advanced,Biology & Life Sciences,English,"English, 中文",99.0,Institute,40-50h
+Power and Responsibility: Doing Philosophy with Superheroes,8517,Self-paced on your time,Introductory,Art & Culture,English,English,49.0,Other,10-20h
+Aprendizaje automático y ciencia de datos,13994,Self-paced on your time,Intermediate,Computer Science,Español,Español,50.0,University,20-30h
+Sustainable Urban Freight Transport: A Global Perspective,7769,Self-paced on your time,Introductory,Engineering,English,English,50.0,University,20-30h
+MathTrackX: Statistics,0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
+Técnicas Cuantitativas y Cualitativas para la Investigación,29885,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,65.0,University,10-20h
+Strategic Applications of IT Project & Program Management,17914,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+Advanced Bioconductor,26063,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,149.0,University,10-20h
+What Every Provider Should Know: Clinical Fundamentals,0,Self-paced on your time,Introductory,Medicine,English,English,50.0,University,50-60h
+Análisis e interpretación de información económica y financiera,5891,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.0,University,30-40h
+AWS IoT: Developing and Deploying an Internet of Things,8884,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,Other,10-20h
+Measuring Sustainable Development,0,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,25.0,Other,10-20h
+Embedded Systems - Shape The World: Multi-Threaded Interfacing,27814,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,University,70-80h
+Hong Kong Cinema through a Global Lens | 全球化下的香港电影,12458,Instructor-led on a course schedule,Introductory,Humanities,English,"English, 中文",50.0,University,30-40h
+Image Processing and Analysis for Life Scientists,8621,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,199.0,Other,10-20h
+La protección del menor,7654,Self-paced on your time,Introductory,Law,Español,Español,49.0,University,20-30h
+Globalization: Past and Future,10127,Self-paced on your time,Introductory,History,English,"English, Русский",25.0,Other,10-20h
+Star Trek: Inspiring Culture and Technology,6521,Self-paced on your time,Introductory,History,English,English,40.0,Other,10-20h
+Qué funciona en educación: políticas educativas basadas en evidencia,15701,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,25.0,Other,30-40h
+"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",0,Self-paced on your time,Introductory,Computer Science,English,English,99.0,Other,0-10h
+Tools for Academic Engagement in Public Policy,5035,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,0-10h
+Theory of Change for Development,10736,Self-paced on your time,Introductory,Social Sciences,English,English,199.0,University,20-30h
+Monozukuri: Making Things,0,Self-paced on your time,Introductory,Engineering,English,English,49.0,Institute,0-10h
+Drug Discovery & Medicinal Chemistry,0,Self-paced on your time,Intermediate,Medicine,English,English,99.0,University,30-40h
+Digital Biomaterials,0,Self-paced on your time,Introductory,Medicine,English,English,149.0,University,10-20h
+Natural Resources for Sustainable Development,9668,Self-paced on your time,Intermediate,Energy & Earth Sciences,English,"اللغة العربية, English, Español, Français, Русский",49.0,Other,60-70h
+Omnichannel Strategy and Management,15860,Self-paced on your time,Intermediate,Business & Management,English,English,99.0,University,10-20h
+General Overview of Cannabis and the Industry’s Outlook and Professions,5048,Self-paced on your time,Introductory,Environmental Studies,English,English,199.0,University,30-40h
+Amazon SageMaker: Simplifying Machine Learning Application Development,11765,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,Other,10-20h
+Formulación y nomenclatura de compuestos químicos,12748,Self-paced on your time,Introductory,Chemistry,Español,Español,49.0,University,20-30h
+Introducción a la factura electrónica,5829,Self-paced on your time,Intermediate,Economics & Finance,Español,Español,49.9,Other,10-20h
+Demand and Supply Analytics,23585,Instructor-led on a course schedule,Intermediate,Business & Management,English,English,249.0,University,80h+
+Advanced Algorithmics and Graph Theory with Python,13502,Self-paced on your time,Intermediate,Computer Science,English,English,49.0,Other,10-20h
+Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,0,Self-paced on your time,Intermediate,Architecture,English,English,59.0,Institute,20-30h
+Diagramas UML estructurales para la Ingeniería del Software,5820,Self-paced on your time,Introductory,Computer Science,Español,Español,50.0,University,10-20h
+"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",6232,Self-paced on your time,Intermediate,Math,English,English,49.0,University,20-30h
+Fundamentos de Mecánica para Ingeniería,14219,Self-paced on your time,Introductory,Physics,Español,Español,49.0,University,20-30h
+Leadership and Management for PM Practitioners in IT,21949,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+Entrepreneurship 103: Show Me The Money,15184,Self-paced on your time,Introductory,Business & Management,English,English,300.0,Institute,30-40h
+Historia de la ética,9383,Self-paced on your time,Introductory,Philosophy & Ethics,Español,Español,29.0,University,10-20h
+Drainage in Agriculture: controlling water and salt levels in the soil,0,Self-paced on your time,Advanced,Environmental Studies,English,English,49.0,University,80h+
+Radio para internet con Podcast: creación y conceptos básicos,6460,Self-paced on your time,Introductory,Communication,Español,Español,50.0,University,20-30h
+Introducción a los circuitos eléctricos,11953,Self-paced on your time,Intermediate,Electronics,Español,Español,49.0,University,30-40h
+AP® Physics 1: Challenging Concepts,12145,Self-paced on your time,Introductory,Physics,English,English,49.0,Other,20-30h
+Introduction to Java Programming – Part 2,71203,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,20-30h
+AP® Macroeconomics,29433,Self-paced on your time,Introductory,Economics & Finance,English,English,49.0,Other,50-60h
+Climate Change Education,12056,Self-paced on your time,Introductory,Education & Teacher Training,English,"English, Español",25.0,Other,40-50h
+"Introducción al griego clásico: verbos, oraciones y filosofía",0,Self-paced on your time,Introductory,Language,Español,Español,49.0,University,20-30h
+Applied Deep Learning Capstone Project,8429,Self-paced on your time,Advanced,Data Analysis & Statistics,English,English,99.0,Other,10-20h
+FinTech Ethics and Risks,10696,Self-paced on your time,Introductory,Economics & Finance,English,"English, English, 中文, 中文",199.0,University,10-20h
+User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,23828,Self-paced on your time,Advanced,Engineering,English,English,139.0,University,20-30h
+The Conquest of Space: Space Exploration and Rocket Science,19926,Self-paced on your time,Introductory,Engineering,English,English,129.0,University,20-30h
+Business Strategy and Operations in a Biobased Economy,0,Self-paced on your time,Advanced,Business & Management,English,English,149.0,University,70-80h
+What Works in Education: Evidence-Based Education Policies,5540,Self-paced on your time,Introductory,Education & Teacher Training,English,English,25.0,Other,30-40h
+Electric Cars: Business,14199,Self-paced on your time,Intermediate,Business & Management,English,English,50.0,University,10-20h
+Thermodynamics of Materials,0,Self-paced on your time,Intermediate,Engineering,English,English,150.0,Institute,80h+
+Mechanics: Momentum and Energy,14846,Self-paced on your time,Intermediate,Physics,English,English,49.0,Institute,80h+
+Co-Creating Sustainable Cities,12415,Self-paced on your time,Advanced,Social Sciences,English,English,49.0,University,50-60h
+Cómo educar teniendo en cuenta la muerte,0,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,49.0,University,10-20h
+Introduction to Animal Ethics,6608,Self-paced on your time,Introductory,Philosophy & Ethics,English,English,49.0,University,10-20h
+Teamwork & Collaboration,0,Self-paced on your time,Introductory,Communication,English,English,199.0,Institute,10-20h
+Grant Writing and Crowdfunding for Public Libraries,12853,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+Leading Ambitious Teaching and Learning,24273,Self-paced on your time,Advanced,Education & Teacher Training,English,English,199.0,University,10-20h
+Financing Innovative Ventures,0,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,10-20h
+"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",0,Self-paced on your time,Intermediate,Math,English,English,49.0,University,20-30h
+Theories of Media and Technology,0,Instructor-led on a course schedule,Introductory,Art & Culture,English,English,249.0,University,80h+
+Introducción a la Estructura de la Materia,11859,Self-paced on your time,Introductory,Chemistry,Español,Español,25.0,University,10-20h
+"Batteries, Fuel Cells, and their Role in Modern Society",11865,Self-paced on your time,Introductory,Science,English,English,49.0,University,10-20h
+Communication Skills for Dialoguing Across Difference,60943,Self-paced on your time,Introductory,Communication,English,English,25.0,Other,0-10h
+Social Media: How Media Got Social,13616,Self-paced on your time,Introductory,Communication,English,English,139.0,University,10-20h
+"Portfolio Management, Governance, & the PMO",17299,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,20-30h
+edX101: Overview of Creating an edX Course,22327,Self-paced on your time,Introductory,Education & Teacher Training,English,English,99.0,Other,0-10h
+"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",0,Self-paced on your time,Introductory,Education & Teacher Training,Español,Español,49.0,University,10-20h
+Data Analysis for Decision Making,8342,Instructor-led on a course schedule,Advanced,Business & Management,English,English,214.0,University,60-70h
+UML Class Diagrams for Software Engineering,33710,Self-paced on your time,Introductory,Computer Science,English,English,49.0,University,10-20h
+Driving Digital Innovation through Experimentation,16904,Instructor-led on a course schedule,Advanced,Computer Science,English,English,399.0,University,20-30h
+Compilation Basics for Macroeconomic Statistics,6570,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,25.0,Other,10-20h
+Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,20189,Self-paced on your time,Introductory,Engineering,Español,Español,25.0,Other,20-30h
+From Fossil Resources to Biomass: A Chemistry Perspective,5464,Self-paced on your time,Advanced,Energy & Earth Sciences,English,English,149.0,University,80h+
+System Dynamics for Health Sciences,15157,Self-paced on your time,Intermediate,Medicine,English,English,139.0,University,20-30h
+Internet de las cosas (IoT) y Big Data,0,Self-paced on your time,Intermediate,Data Analysis & Statistics,Español,Español,49.0,University,20-30h
+Introducción a Ciencias de Datos y Estadística Básica para Negocios,0,Self-paced on your time,Advanced,Data Analysis & Statistics,Español,Español,49.99,Other,20-30h
+Introduction to Psychological Research Methods,17087,Self-paced on your time,Introductory,Humanities,English,English,99.0,University,10-20h
+Sustainable Packaging in a Circular Economy,6277,Self-paced on your time,Intermediate,Design,English,English,50.0,University,20-30h
+Design in Healthcare: Using Patient Journey Mapping,17946,Self-paced on your time,Introductory,Design,English,English,129.0,University,20-30h
+"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",0,Self-paced on your time,Intermediate,Biology & Life Sciences,Español,"English, Español",99.0,University,20-30h
+"Electronic, Optical, and Magnetic Properties of Materials",9717,Instructor-led on a course schedule,Advanced,Engineering,English,English,150.0,Institute,80h+
+La España del Quijote,13277,Self-paced on your time,Introductory,History,Español,Español,19.0,University,40-50h
+Risk Management for Projects,22269,Self-paced on your time,Introductory,Business & Management,English,English,199.0,University,10-20h
+Smithsonian’s Objects That Define America,9071,Self-paced on your time,Introductory,Humanities,English,English,50.0,Other,0-10h
+Creating Modern China: The Republican Period to the Present,43045,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Discover Political Science,6573,Instructor-led on a course schedule,Intermediate,Social Sciences,English,English,50.0,University,50-60h
+Data Science: Inferential Thinking through Simulations,17505,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Programming for Data Science,41268,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,80h+
+Public Sector Debt Statistics,0,Self-paced on your time,Intermediate,Economics & Finance,English,English,25.0,Other,40-50h
+Sensor Fusion and Non-linear Filtering for Automotive Systems,9709,Instructor-led on a course schedule,Advanced,Engineering,English,English,299.0,University,80h+
+Creación musical con Soundcool: Introducción,0,Self-paced on your time,Introductory,Music,Español,Español,30.0,University,20-30h
+First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,8222,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+The Quantum Internet and Quantum Computers: How Will They Change the World?,15014,Self-paced on your time,Introductory,Science,English,English,50.0,University,10-20h
+Research Methods: An Engineering Approach,20444,Self-paced on your time,Introductory,Engineering,English,English,169.0,University,20-30h
+Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,15349,Self-paced on your time,Introductory,Philosophy & Ethics,Español,Español,49.0,University,20-30h
+Rise to Leadership: Become a CEO,16719,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,20-30h
+Building a Cybersecurity Toolkit,23275,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Marketing your Android apps,0,Self-paced on your time,Intermediate,Engineering,English,English,49.0,University,30-40h
+Embedded Systems Essentials with Arm: Getting Started,0,Self-paced on your time,Intermediate,Computer Science,English,English,149.0,Other,20-30h
+Life with Diabetes,12318,Self-paced on your time,Introductory,Medicine,English,English,139.0,University,10-20h
+Human Reproduction,5517,Self-paced on your time,Intermediate,Biology & Life Sciences,English,English,169.0,University,10-20h
+Enabling Technologies for Data Science and Analytics: The Internet of Things,71290,Self-paced on your time,Introductory,Computer Science,English,English,99.0,University,40-50h
+Astrophysics: Exploring Exoplanets,48539,Self-paced on your time,Intermediate,Physics,English,English,50.0,University,20-30h
+Unconventional Reservoir Geomechanics,0,Self-paced on your time,Introductory,Energy & Earth Sciences,English,English,129.0,University,70-80h
+Strategic Account Management,0,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,30-40h
+PyTorch Basics for Machine Learning,0,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,39.0,Other,20-30h
+Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,14266,Self-paced on your time,Intermediate,Humanities,Español,Español,49.0,University,10-20h
+Introduction to Cloud Foundry and Cloud Native Software Architecture,24444,Self-paced on your time,Introductory,Computer Science,English,English,169.0,Other,40-50h
+Gestión de compras eficientes para tu empresa,0,Self-paced on your time,Introductory,Engineering,Español,Español,25.0,Other,20-30h
+Know HBV And HCV,0,Self-paced on your time,Introductory,Medicine,English,English,50.0,University,0-10h
+The Supreme Court & American Politics,6216,Self-paced on your time,Introductory,Law,English,English,29.0,University,40-50h
+Sales Enablement & Analytics,0,Self-paced on your time,Introductory,Business & Management,English,English,149.0,University,30-40h
+Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,16423,Self-paced on your time,Intermediate,Business & Management,Español,Español,25.0,Other,30-40h
+Liderazgo en la empresa familiar,10969,Self-paced on your time,Intermediate,Business & Management,Español,Español,49.0,Other,40-50h
+Comparative Political Systems,6934,Self-paced on your time,Introductory,Social Sciences,English,English,59.0,University,30-40h
+Introducción al Derecho en la vida cotidiana,0,Self-paced on your time,Introductory,Law,Español,Español,49.0,University,20-30h
+Cloud Computing for Enterprises,27241,Instructor-led on a course schedule,Intermediate,Computer Science,English,English,299.0,University,70-80h
+Diversity and Social Justice in Social Work,11055,Self-paced on your time,Advanced,Social Sciences,English,English,199.0,University,70-80h
+Public Library Marketing and Public Relations,7525,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,10-20h
+"Healthcare Finance, Economics and Risk",8006,Self-paced on your time,Intermediate,Economics & Finance,English,English,199.0,University,30-40h
+Reacciones Químicas y Cálculos Estequiométricos,8907,Self-paced on your time,Introductory,Chemistry,Español,Español,49.0,University,20-30h
+Seeking Women’s Rights: Colonial Period to the Civil War,5157,Self-paced on your time,Intermediate,History,English,English,50.0,University,20-30h
+VideoX: Creating Video for the edX Platform,12159,Self-paced on your time,Introductory,Education & Teacher Training,English,English,99.0,Other,0-10h
+Comisión de la Verdad Colombia,0,Self-paced on your time,Introductory,History,Español,Español,29.0,University,40-50h
+MathTrackX: Probability,0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
+Health Informatics for better and safer healthcare,0,Self-paced on your time,Introductory,Health & Safety,English,English,49.0,Other,10-20h
+Sign Language Science: Factors Contributing to Natural Change,0,Self-paced on your time,Introductory,Language,English,English,99.0,University,10-20h
+Accounting System Structure and Information Management,0,Self-paced on your time,Introductory,Economics & Finance,English,English,50.0,Other,0-10h
+Sustainable Development: The Post-Capitalist Order,7031,Self-paced on your time,Introductory,Economics & Finance,English,English,49.0,Other,20-30h
+"Health Law, Policy, and Advocacy",6358,Self-paced on your time,Intermediate,Law,English,English,199.0,University,30-40h
+Introduction to Haptics,0,Self-paced on your time,Introductory,Engineering,English,English,129.0,University,20-30h
+Gestión de inventario y portafolio,0,Self-paced on your time,Introductory,Engineering,Español,Español,25.0,Other,20-30h
+Understanding Nuclear Energy,16015,Self-paced on your time,Intermediate,Engineering,English,English,50.0,University,30-40h
+Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),11431,Self-paced on your time,Introductory,Business & Management,Español,Español,50.0,Other,0-10h
+Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,0,Self-paced on your time,Introductory,Business & Management,English,English,50.0,University,30-40h
+AP® Calculus BC,8542,Self-paced on your time,Introductory,Math,English,English,49.0,Other,30-40h
+Advanced Linear Algebra: Foundations to Frontiers,0,Self-paced on your time,Advanced,Computer Science,English,English,49.0,University,80h+
+Entrepreneurial Opportunities,27182,Self-paced on your time,Introductory,Business & Management,English,English,50.0,University,10-20h
+Agua en América Latina: Abundancia en medio de la escasez mundial,38581,Self-paced on your time,Introductory,Environmental Studies,Español,Español,25.0,Other,30-40h
+Understanding Political Concepts,7421,Self-paced on your time,Introductory,Social Sciences,English,English,59.0,University,30-40h
+How to Code: Complex Data,34190,Self-paced on your time,Introductory,Computer Science,English,English,125.0,University,10-20h
+Hypersonics – from Shock Waves to Scramjets,19043,Self-paced on your time,Advanced,Engineering,English,English,99.0,University,20-30h
+Micro and Nanofabrication (MEMS),16094,Self-paced on your time,Advanced,Engineering,English,"English, Français",199.0,Other,20-30h
+Scientific Methods and Research,7501,Self-paced on your time,Intermediate,Science,English,English,49.0,University,10-20h
+Customer Centric Marketing for Entrepreneurs,14003,Self-paced on your time,Intermediate,Business & Management,English,English,149.0,University,20-30h
+Dog Behavior: Problems and Solutions,16467,Self-paced on your time,Intermediate,Social Sciences,English,English,169.0,University,20-30h
+The Business of Mining,20406,Self-paced on your time,Introductory,Business & Management,English,English,139.0,University,10-20h
+"Social Work Practice in Community Organization, Management and Policy/Evaluation",9522,Self-paced on your time,Advanced,Social Sciences,English,English,199.0,University,70-80h
+The Business of Aging in the Longevity Economy,0,Self-paced on your time,Introductory,Social Sciences,English,English,139.0,University,0-10h
+Understanding the Australian Health Care System,8343,Self-paced on your time,Introductory,Medicine,English,English,59.0,University,10-20h
+Age of Sustainable Development,10019,Self-paced on your time,Intermediate,Social Sciences,English,"English, Português, Русский",49.0,Other,70-80h
+Internationalization: Creating Digital Content for the World,0,Self-paced on your time,Advanced,Computer Science,English,English,199.0,University,10-20h
+Multi-Object Tracking for Automotive Systems,8581,Instructor-led on a course schedule,Advanced,Engineering,English,English,249.0,University,80h+
+Economics and Policies in a Biobased Economy,0,Self-paced on your time,Advanced,Energy & Earth Sciences,English,English,149.0,University,60-70h
+Strategic Leadership in Healthcare,6237,Self-paced on your time,Intermediate,Business & Management,English,English,199.0,University,30-40h
+Terrorism and Counterterrorism: An Introduction,14128,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,20-30h
+Exploring Psychology's Core Concepts|走进心理学,5741,Self-paced on your time,Introductory,Social Sciences,English,English,139.0,University,20-30h
+Creating Virtual Reality (VR) Apps,22349,Self-paced on your time,Intermediate,Computer Science,English,English,99.0,University,30-40h
+Análisis Multivariable en SPSS,0,Self-paced on your time,Introductory,Data Analysis & Statistics,Español,Español,49.0,University,20-30h
+Steps in Japanese for Beginners2 Part1,0,Self-paced on your time,Introductory,Language,English,English,99.0,University,20-30h
+"Competencias para buscar, mantener y promocionar en un empleo",0,Self-paced on your time,Introductory,Social Sciences,Español,Español,49.0,University,10-20h
+Dynamics and Control,27763,Self-paced on your time,Introductory,Engineering,English,English,50.0,University,20-30h
+Finding Your Cybersecurity Career Path,19283,Self-paced on your time,Introductory,Computer Science,English,English,199.0,University,20-30h
+Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,12674,Self-paced on your time,Introductory,Humanities,Español,Español,29.0,University,20-30h
+Mechanics: Rotational Dynamics,13183,Self-paced on your time,Intermediate,Physics,English,English,49.0,Institute,80h+
+Applying Health Coaching in Patient Care,0,Self-paced on your time,Introductory,Medicine,English,English,199.0,University,20-30h
+Databases: Modeling and Theory,0,Self-paced on your time,Introductory,Computer Science,English,English,50.0,University,10-20h
+"Islamic Banking: Principles, Practice and Risk Management",0,Self-paced on your time,Introductory,Economics & Finance,English,English,49.0,Institute,10-20h
+Liderazgo orientado al florecimiento humano,7911,Self-paced on your time,Introductory,Business & Management,Español,Español,149.0,Other,20-30h
+Software Construction: Object-Oriented Design,23100,Self-paced on your time,Intermediate,Computer Science,English,English,125.0,University,50-60h
+"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",0,Self-paced on your time,Introductory,Computer Science,English,English,199.0,Other,10-20h
+Fondements de l’économie sociale et solidaire,0,Instructor-led on a course schedule,Intermediate,Social Sciences,Français,Français,50.0,University,30-40h
+The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,17941,Self-paced on your time,Introductory,History,English,English,50.0,University,80h+
+Innovation Strategies for Electric Mobility: The StreetScooter Case,0,Self-paced on your time,Intermediate,Business & Management,English,English,99.0,University,10-20h
+Sustainable Energy,0,Instructor-led on a course schedule,Advanced,Energy & Earth Sciences,English,English,149.0,Institute,80h+
+Designing and Leading Learning Systems,11895,Self-paced on your time,Advanced,Education & Teacher Training,English,English,199.0,University,20-30h
+How the U.S. Government Works & How to Get Involved,5930,Self-paced on your time,Introductory,Social Sciences,English,English,49.0,University,20-30h
+Inspiring and Motivating Arts and Culture Teams,10817,Self-paced on your time,Introductory,Business & Management,English,English,49.0,University,20-30h
+Principles of Microeconomics: An Economist Way of Thinking,0,Self-paced on your time,Intermediate,Economics & Finance,English,English,149.0,University,0-10h
+A System View of Communications: From Signals to Packets (Part 1),34261,Self-paced on your time,Introductory,Computer Science,English,English,60.0,University,30-40h
+"Invasions, Rebellions, and the Fall of Imperial China",41537,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+AP® English Literature & Composition – Part 3: Plays,6443,Self-paced on your time,Introductory,Humanities,English,English,49.0,University,30-40h
+Cómo implantar grupos de mejora de procesos,28100,Self-paced on your time,Introductory,Business & Management,Español,Español,150.0,University,20-30h
+Proteins: Biology's Workforce,25893,Self-paced on your time,Intermediate,Biology & Life Sciences,English,English,169.0,University,20-30h
+Introducción a los ritmos y relojes biológicos,6149,Self-paced on your time,Introductory,Science,Español,"English, Español",50.0,University,20-30h
+Linear Algebra I: Linear Equations,0,Self-paced on your time,Intermediate,Math,English,English,199.0,Institute,10-20h
+"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",10205,Self-paced on your time,Advanced,Engineering,English,English,169.0,Other,30-40h
+Fundamentos de Electromagnetismo para Ingeniería,15040,Self-paced on your time,Introductory,Physics,Español,Español,49.0,University,30-40h
+Sustainable Food Systems: A Mediterranean Perspective,6480,Self-paced on your time,Intermediate,Food & Nutrition,English,"English, Français, Italiano",49.0,Other,30-40h
+Scripting and Programming Foundations,0,Self-paced on your time,Introductory,Computer Science,English,English,299.7,University,70-80h
+Using GPUs to Scale and Speed-up Deep Learning,9294,Self-paced on your time,Intermediate,Data Analysis & Statistics,English,English,99.0,Other,10-20h
+StudioX: Creating a Course with edX Studio,20355,Self-paced on your time,Introductory,Education & Teacher Training,English,English,99.0,Other,10-20h
+The Power of Data,0,Self-paced on your time,Introductory,Data Analysis & Statistics,English,English,49.0,Other,0-10h
+Introducción a las ondas gravitacionales,8657,Self-paced on your time,Introductory,Science,Español,"English, Español",50.0,University,20-30h
+Drones and Autonomous Systems 2: Applications in Emergency Management,0,Self-paced on your time,Intermediate,Science,English,English,149.0,University,10-20h
+MathTrackX: Differential Calculus,0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
+Global China: From the Mongols to the Ming,41902,Self-paced on your time,Introductory,History,English,"English, 中文",139.0,University,30-40h
+Leaders in Citizen Security and Justice Management for the Caribbean,0,Self-paced on your time,Intermediate,Social Sciences,English,English,25.0,Other,40-50h
+Pattern Studying and Making | 图案审美与创作,0,Self-paced on your time,Introductory,Art & Culture,中文,"English, 中文",139.0,University,40-50h
+Computational Neuroscience: Neuronal Dynamics of Cognition,11246,Self-paced on your time,Advanced,Biology & Life Sciences,English,English,139.0,Other,30-40h
+Cities and the Challenge of Sustainable Development,8775,Self-paced on your time,Introductory,Environmental Studies,English,English,25.0,Other,0-10h
+MathTrackX: Special Functions,0,Self-paced on your time,Introductory,Math,English,English,79.0,University,10-20h
